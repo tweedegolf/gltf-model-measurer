@@ -1,0 +1,6044 @@
+[
+  {
+    "id": 1077,
+    "title": "10-zits hoek Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits10.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1079,
+    "title": "10-zits hoek Denim Drift",
+    "model": "bubalou-denim-drift-zits10.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1076,
+    "title": "10-zits hoek + hocker Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits10-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1078,
+    "title": "10-zits hoek + hocker Denim Drift",
+    "model": "bubalou-denim-drift-zits10-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1074,
+    "title": "10-zits hoek + hocker Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits10-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1082,
+    "title": "10-zits hoek + hocker Wicked Black",
+    "model": "bubalou-black-zits10-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1075,
+    "title": "10-zits hoek Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits10.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1081,
+    "title": "10-zits hoek Wicked Black",
+    "model": "bubalou-black-zits10.1.glb",
+    "dimensions": { "width": 146, "height": 192, "height3d": 0 }
+  },
+  {
+    "id": 1085,
+    "title": "1,5-zits Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits1-5.1.glb",
+    "dimensions": { "width": 66, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1083,
+    "title": "1,5-zits Denim Drift",
+    "model": "bubalou-denim-drift-zits1-5.1.glb",
+    "dimensions": { "width": 66, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1084,
+    "title": "1,5-zits Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits1-5.1.glb",
+    "dimensions": { "width": 66, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1080,
+    "title": "1,5-zits Wicked Black",
+    "model": "bubalou-black-zits1-5.1.glb",
+    "dimensions": { "width": 66, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1090,
+    "title": "3-zits Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits3.1.glb",
+    "dimensions": { "width": 110, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1093,
+    "title": "3-zits Denim Drift",
+    "model": "bubalou-denim-drift-zits3.1.glb",
+    "dimensions": { "width": 110, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1086,
+    "title": "3-zits + hocker Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits3-hocker.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1087,
+    "title": "3-zits + hocker Denim Drift",
+    "model": "bubalou-denim-drift-zits3-hocker.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1089,
+    "title": "3 zits + hocker Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits3-hocker.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1088,
+    "title": "3-zits + hocker Wicked Black",
+    "model": "bubalou-black-zits3-hocker.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1092,
+    "title": "3-zits Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits3.1.glb",
+    "dimensions": { "width": 110, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1091,
+    "title": "3-zits Wicked Black",
+    "model": "bubalou-black-zits3.1.glb",
+    "dimensions": { "width": 110, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1095,
+    "title": "4-zits lounge links Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits4-lounge-links.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1094,
+    "title": "4-zits lounge links Denim Drift",
+    "model": "bubalou-denim-drift-zits4-lounge-links.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1097,
+    "title": "4-zits lounge links Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits4-lounge-links.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1096,
+    "title": "4-zits lounge links Wicked Black",
+    "model": "bubalou-black-zits4-lounge-links.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1099,
+    "title": "4-zits lounge rechts Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits4-lounge-rechts.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1101,
+    "title": "4-zits lounge rechts Denim Drift",
+    "model": "bubalou-denim-drift-zits4-lounge-rechts.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1098,
+    "title": "4-zits lounge rechts Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits4-lounge-rechts.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1100,
+    "title": "4-zits lounge rechts Wicked Black",
+    "model": "bubalou-black-zits4-lounge-rechts.1.glb",
+    "dimensions": { "width": 114, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1105,
+    "title": "6-zits Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6.1.glb",
+    "dimensions": { "width": 156, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1103,
+    "title": "6-zits Denim Drift",
+    "model": "bubalou-denim-drift-zits6.1.glb",
+    "dimensions": { "width": 156, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1131,
+    "title": "6-zits + hocker Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-hocker.1.glb",
+    "dimensions": { "width": 156, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1129,
+    "title": "6 zits + hocker Denim Drift",
+    "model": "bubalou-denim-drift-zits6-hocker.1.glb",
+    "dimensions": { "width": 156, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1130,
+    "title": "6-zits + hocker Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-hocker.1.glb",
+    "dimensions": { "width": 156, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1128,
+    "title": "6-zits + hocker Wicked Black",
+    "model": "bubalou-black-zits6-hocker.1.glb",
+    "dimensions": { "width": 156, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1121,
+    "title": "6-zits hoek + hocker links Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-hoek-hocker-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1122,
+    "title": "6-zits hoek + hocker links Denim Drift",
+    "model": "bubalou-denim-drift-zits6-hoek-hocker-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1120,
+    "title": "6-zits hoek + hocker links Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-hoek-hocker-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1119,
+    "title": "6-zits hoek + hocker links Wicked Black",
+    "model": "bubalou-black-zits6-hoek-hocker-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1125,
+    "title": "6-zits hoek + hocker rechts Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-hoek-hocker-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1126,
+    "title": "6-zits hoek + hocker rechts Denim Drift",
+    "model": "bubalou-denim-drift-zits6-hoek-hocker-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1124,
+    "title": "6-zits hoek + hocker rechts Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-hoek-hocker-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1127,
+    "title": "6-zits hoek + hocker rechts Wicked Black",
+    "model": "bubalou-black-zits6-hoek-hocker-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1112,
+    "title": "6-zits hoek links Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-hoek-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1113,
+    "title": "6-zits hoek links Denim Drift",
+    "model": "bubalou-denim-drift-zits6-hoek-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1114,
+    "title": "6-zits hoek links Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-hoek-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1111,
+    "title": "6-zits hoek links Wicked Black",
+    "model": "bubalou-black-zits6-hoek-links.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1116,
+    "title": "6-zits hoek rechts Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-hoek-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1115,
+    "title": "6-zits hoek rechts Denim Drift",
+    "model": "bubalou-denim-drift-zits6-hoek-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1118,
+    "title": "6-zits hoek rechts Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-hoek-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1117,
+    "title": "6-zits hoek rechts Wicked Black",
+    "model": "bubalou-black-zits6-hoek-rechts.1.glb",
+    "dimensions": { "width": 146, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1107,
+    "title": "6-zits lounge links Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-lounge-links.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1108,
+    "title": "6-zits lounge links Denim Drift",
+    "model": "bubalou-denim-drift-zits6-lounge-links.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1109,
+    "title": "6-zits lounge links Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-lounge-links.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1106,
+    "title": "6-zits lounge links Wicked Black",
+    "model": "bubalou-black-zits6-lounge-links.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1154,
+    "title": "6-zits lounge rechts Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits6-lounge-rechts.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1156,
+    "title": "6-zits lounge rechts Denim Drift",
+    "model": "bubalou-denim-drift-zits6-lounge-rechts.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1155,
+    "title": "6-zits lounge rechts Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6-lounge-rechts.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1157,
+    "title": "6-zits lounge rechts Wicked Black",
+    "model": "bubalou-black-zits6-lounge-rechts.1.glb",
+    "dimensions": { "width": 160, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1102,
+    "title": "6-zits Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits6.1.glb",
+    "dimensions": { "width": 156, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1104,
+    "title": "6-zits Wicked Black",
+    "model": "bubalou-black-zits6.1.glb",
+    "dimensions": { "width": 156, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 1072,
+    "title": "8-zits hoek Cacao Grey",
+    "model": "bubalou-cocoa-grey-zits8-hoek.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1070,
+    "title": "8-zits hoek Denim Drift",
+    "model": "bubalou-denim-drift-zits8-hoek.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1069,
+    "title": "8-zits hoek + hocker Denim Drift",
+    "model": "bubalou-denim-drift-zits8-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1067,
+    "title": "8-zits hoek + hocker Taupe's Touch",
+    "model": "bubalou-cocoa-grey-zits8-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1066,
+    "title": "8-zits hoek + hocker Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits8-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1068,
+    "title": "8-zits hoek + hocker Wicked Black",
+    "model": "bubalou-black-zits8-hoek-hocker.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1071,
+    "title": "8-zits hoek Taupe's Touch",
+    "model": "bubalou-toupes-touch-zits8-hoek.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1073,
+    "title": "8-zits hoek Wicked Black",
+    "model": "bubalou-black-zits8-hoek.1.glb",
+    "dimensions": { "width": 146, "height": 146, "height3d": 0 }
+  },
+  {
+    "id": 1632,
+    "title": "Afvalbak zwart",
+    "model": "afvalbak-ral-7021-0caf71fb652ba51627c6.glb",
+    "dimensions": { "width": 24, "height": 18, "height3d": 0 }
+  },
+  {
+    "id": 416,
+    "title": "Anemoon",
+    "model": "anemoon.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 593,
+    "title": "Anemoon blauw",
+    "model": "anemoon-los-blauw.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 594,
+    "title": "Anemoon rood",
+    "model": "anemoon-rood.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 596,
+    "title": "Anemoon roze",
+    "model": "anemoon-roze.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 516,
+    "title": "Anemoon schets",
+    "model": "anemoon-tall.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 595,
+    "title": "Anemoon wit",
+    "model": "anemoon-wit.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 56,
+    "title": "Appel",
+    "model": "fruitboom.1.glb",
+    "dimensions": { "width": 73, "height": 79, "height3d": 0 }
+  },
+  {
+    "id": 505,
+    "title": "Appel schets",
+    "model": "fruitboom.1.glb",
+    "dimensions": { "width": 73, "height": 79, "height3d": 0 }
+  },
+  {
+    "id": 518,
+    "title": "Aster",
+    "model": "heester.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 59,
+    "title": "Aster",
+    "model": "heester.1.glb",
+    "dimensions": { "width": 43, "height": 43, "height3d": 0 }
+  },
+  {
+    "id": 583,
+    "title": "Auris",
+    "model": "auris.1.glb",
+    "dimensions": { "width": 84, "height": 215, "height3d": 0 }
+  },
+  {
+    "id": 205,
+    "title": "Bak met stapelmuur",
+    "model": "lineablock.1.glb",
+    "dimensions": { "width": 67, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 777,
+    "title": "Bak met stapelmuur bruin",
+    "model": "lineablock-geelbruin.1.glb",
+    "dimensions": { "width": 67, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 222,
+    "title": "Bamboe",
+    "model": "bamboe.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 597,
+    "title": "Bamboe bruin",
+    "model": "bamboe-bruin.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1034,
+    "title": "Bamboe geel ∅10 x b500 x h400",
+    "model": "bamboepaal120.1.glb",
+    "dimensions": { "width": 250, "height": 6, "height3d": 0 }
+  },
+  {
+    "id": 1059,
+    "title": "Bamboe geel ∅5 x b250 x h200",
+    "model": "bamboepaal50-geel.1.glb",
+    "dimensions": { "width": 125, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 598,
+    "title": "Bamboe lichtbruin",
+    "model": "bamboe-lichtbruin.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 599,
+    "title": "Bamboe lichtgroen",
+    "model": "bamboe-lichtgroen.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1024,
+    "title": "Bamboepaal geel ∅10 x h400",
+    "model": "bamboepaal120-geel.1.glb",
+    "dimensions": { "width": 6, "height": 6, "height3d": 0 }
+  },
+  {
+    "id": 1008,
+    "title": "Bamboepaal geel ∅5 x h200",
+    "model": "bamboepaal50-geel.1.glb",
+    "dimensions": { "width": 4, "height": 4, "height3d": 0 }
+  },
+  {
+    "id": 1058,
+    "title": "Bamboepaal zwart ∅10 x h400",
+    "model": "bamboepaal120-zwart.1.glb",
+    "dimensions": { "width": 6, "height": 6, "height3d": 0 }
+  },
+  {
+    "id": 1057,
+    "title": "Bamboepaal zwart ∅5 x h200",
+    "model": "bamboepaal50-zwart.1.glb",
+    "dimensions": { "width": 4, "height": 4, "height3d": 0 }
+  },
+  {
+    "id": 515,
+    "title": "Bamboe schets",
+    "model": "bamboe.1.glb",
+    "dimensions": { "width": 41, "height": 39, "height3d": 0 }
+  },
+  {
+    "id": 1060,
+    "title": "Bamboe zwart ∅10 x b500 x h400",
+    "model": "bamboepaal120-zwart.1.glb",
+    "dimensions": { "width": 250, "height": 6, "height3d": 0 }
+  },
+  {
+    "id": 1033,
+    "title": "Bamboe zwart ∅5 x b250 x h200",
+    "model": "bamboepaal50.1.glb",
+    "dimensions": { "width": 125, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 611,
+    "title": "Bankje donkerbruin",
+    "model": "bankje-donkerbruin.1.glb",
+    "dimensions": { "width": 22, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 444,
+    "title": "Bankje Luna",
+    "model": "bankje.1.glb",
+    "dimensions": { "width": 22, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 613,
+    "title": "Bankje zwart",
+    "model": "bankje-zwart.1.glb",
+    "dimensions": { "width": 22, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 46,
+    "title": "Barbeque",
+    "model": "barbeque.1.glb",
+    "dimensions": { "width": 42, "height": 85, "height3d": 0 }
+  },
+  {
+    "id": 1662,
+    "title": "Barkruk antraciet",
+    "model": "barkruk-anthracite-a527aec1a352e91e7e0f.glb",
+    "dimensions": { "width": 26, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 1660,
+    "title": "Barkruk taupe",
+    "model": "barkruk-taupe-2ae25b93a98e4a26fe3b.glb",
+    "dimensions": { "width": 26, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 1659,
+    "title": "Barkruk wit",
+    "model": "barkruk-white-a8bc228b4cbc0ac83b26.glb",
+    "dimensions": { "width": 26, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 1661,
+    "title": "Barkruk zwart",
+    "model": "barkruk-black-8cf0de01f8599c472f92.glb",
+    "dimensions": { "width": 26, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 118,
+    "title": "Basisapparaat micro-drip-systeem",
+    "model": "microdipsystem.1.glb",
+    "dimensions": { "width": 75, "height": 17, "height3d": 100 }
+  },
+  {
+    "id": 470,
+    "title": "Beetle",
+    "model": "beetle-rood.1.glb",
+    "dimensions": { "width": 90, "height": 214, "height3d": 0 }
+  },
+  {
+    "id": 605,
+    "title": "Beetle blauw",
+    "model": "beetle-blauw.1.glb",
+    "dimensions": { "width": 90, "height": 214, "height3d": 0 }
+  },
+  {
+    "id": 606,
+    "title": "Beetle grijs",
+    "model": "beetle-grijs.1.glb",
+    "dimensions": { "width": 90, "height": 214, "height3d": 0 }
+  },
+  {
+    "id": 607,
+    "title": "Beetle zwart",
+    "model": "beetle-zwart.1.glb",
+    "dimensions": { "width": 90, "height": 214, "height3d": 0 }
+  },
+  {
+    "id": 198,
+    "title": "Berk",
+    "model": "berk.1.glb",
+    "dimensions": { "width": 122, "height": 117, "height3d": 0 }
+  },
+  {
+    "id": 610,
+    "title": "Berk bruin",
+    "model": "berk-bruin.1.glb",
+    "dimensions": { "width": 122, "height": 117, "height3d": 0 }
+  },
+  {
+    "id": 608,
+    "title": "Berk bruin-rood",
+    "model": "berk-bruinrood.1.glb",
+    "dimensions": { "width": 122, "height": 117, "height3d": 0 }
+  },
+  {
+    "id": 609,
+    "title": "Berk licht-groen",
+    "model": "berk-lichtgroen.1.glb",
+    "dimensions": { "width": 122, "height": 117, "height3d": 0 }
+  },
+  {
+    "id": 514,
+    "title": "Berk schets",
+    "model": "berk.1.glb",
+    "dimensions": { "width": 122, "height": 117, "height3d": 0 }
+  },
+  {
+    "id": 115,
+    "title": "Besproeiing van kleine oppervlakken",
+    "model": "sproeikop.1.glb",
+    "dimensions": { "width": 7, "height": 13, "height3d": 100 }
+  },
+  {
+    "id": 66,
+    "title": "Bessenstruik",
+    "model": "struik-paars.1.glb",
+    "dimensions": { "width": 84, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 710,
+    "title": "Bessenstruik groen",
+    "model": "struik-groen.1.glb",
+    "dimensions": { "width": 84, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 707,
+    "title": "Bessenstruik rood",
+    "model": "struik-rood.1.glb",
+    "dimensions": { "width": 84, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 493,
+    "title": "Bessenstruik schets",
+    "model": "struik.1.glb",
+    "dimensions": { "width": 84, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 200,
+    "title": "Beuk",
+    "model": "beuk.1.glb",
+    "dimensions": { "width": 148, "height": 145, "height3d": 0 }
+  },
+  {
+    "id": 796,
+    "title": "Beuk geelbruin",
+    "model": "beuk-geelbruin.1.glb",
+    "dimensions": { "width": 148, "height": 145, "height3d": 0 }
+  },
+  {
+    "id": 798,
+    "title": "Beuk groen",
+    "model": "beuk-groen.1.glb",
+    "dimensions": { "width": 148, "height": 145, "height3d": 0 }
+  },
+  {
+    "id": 797,
+    "title": "Beuk lichtrood",
+    "model": "beuk-lichtrood.1.glb",
+    "dimensions": { "width": 148, "height": 145, "height3d": 0 }
+  },
+  {
+    "id": 513,
+    "title": "Beuk schets",
+    "model": "beuk.1.glb",
+    "dimensions": { "width": 148, "height": 145, "height3d": 0 }
+  },
+  {
+    "id": 47,
+    "title": "Bloembak",
+    "model": "bloembak-roodpaars.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 614,
+    "title": "Bloembak donkerrozegroen",
+    "model": "bloembak-donkerrozegroen.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 615,
+    "title": "Bloembak oranjegroen",
+    "model": "bloembak-oranjegroen.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 616,
+    "title": "Bloembak roodgroen",
+    "model": "bloembak-roodgroen.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 512,
+    "title": "Bloembak schets",
+    "model": "bloembak.1.glb",
+    "dimensions": { "width": 67, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 973,
+    "title": "Bloem blauw",
+    "model": "bloemen-los-klein-blauw.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 48,
+    "title": "Bloemen",
+    "model": "bloemen.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 100 }
+  },
+  {
+    "id": 617,
+    "title": "Bloemen blauw",
+    "model": "bloemen-blauw.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 100 }
+  },
+  {
+    "id": 618,
+    "title": "Bloemen groen",
+    "model": "bloemen-groen.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 100 }
+  },
+  {
+    "id": 619,
+    "title": "Bloemen rood",
+    "model": "bloemen-rood.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 100 }
+  },
+  {
+    "id": 620,
+    "title": "Bloemen roze",
+    "model": "bloemen-roze.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 100 }
+  },
+  {
+    "id": 974,
+    "title": "Bloem groen",
+    "model": "bloemen-los-klein-groen.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 975,
+    "title": "Bloem rood",
+    "model": "bloemen-los-klein-rood.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 976,
+    "title": "Bloem roze",
+    "model": "bloemen-los-klein-roze.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1162,
+    "title": "Blokhut alpha blank 400 x 255 x h250",
+    "model": "blokhutalpha230-blank.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1163,
+    "title": "Blokhut alpha bruin 400 x 255 x h250",
+    "model": "blokhutalpha230-bruin.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1164,
+    "title": "Blokhut alpha carbon grey 400 x 255 x h250",
+    "model": "blokhutalpha230-carbon-grey.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1165,
+    "title": "Blokhut alpha dark oak 400 x 255 x h250",
+    "model": "blokhutalpha230-dark-oak.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1166,
+    "title": "Blokhut alpha groen 400 x 255 x h250",
+    "model": "blokhutalpha230-groen.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1168,
+    "title": "Blokhut alpha pigeon blue 400 x 255 x h250",
+    "model": "blokhutalpha230-pigeon-blue.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1169,
+    "title": "Blokhut alpha platinum grey 400 x 255 x h250",
+    "model": "blokhutalpha230-platinum-grey.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 1170,
+    "title": "Blokhut alpha zwart 400 x 255 x h250",
+    "model": "blokhutalpha230-zwart.1.glb",
+    "dimensions": { "width": 200, "height": 128, "height3d": 0 }
+  },
+  {
+    "id": 749,
+    "title": "Blokhut grijs daklei 360 x 480",
+    "model": "elgin-daklei-grijs.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 790,
+    "title": "Blokhut grijs dakpan 360 x 480",
+    "model": "elgin-dakpannen-grijs.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 748,
+    "title": "Blokhut groen daklei 360 x 480",
+    "model": "elgin-daklei-groen.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 792,
+    "title": "Blokhut oranje dakpan360 x 480",
+    "model": "elgin-dakpannen-oranje.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 747,
+    "title": "Blokhut rood daklei 360 x 480",
+    "model": "elgin-daklei-rood.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 791,
+    "title": "Blokhut rood dakpan360 x 480",
+    "model": "elgin-dakpannen-rood.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 686,
+    "title": "Blokhut zwart daklei 360 x 480",
+    "model": "elgin-daklei-zwart.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 789,
+    "title": "Blokhut zwart dakpan 360 x 480",
+    "model": "elgin-dakpannen-zwart.1.glb",
+    "dimensions": { "width": 215, "height": 265, "height3d": 0 }
+  },
+  {
+    "id": 49,
+    "title": "Bolacacia",
+    "model": "bolboom.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 510,
+    "title": "Bolacacia schets",
+    "model": "bolboom.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 621,
+    "title": "Bolboom bruinrood",
+    "model": "bolboom-bruinrood.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 622,
+    "title": "Bolboom donkergroen",
+    "model": "bolboom-donkergroen.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 623,
+    "title": "Bolboom geelbruin",
+    "model": "bolboom-geelbruin.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 624,
+    "title": "Bolboom geelgroen",
+    "model": "bolboom-geelgroen.1.glb",
+    "dimensions": { "width": 73, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 445,
+    "title": "Boombank",
+    "model": "boombank.1.glb",
+    "dimensions": { "width": 29, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 755,
+    "title": "Boombank donkerbruin",
+    "model": "boombank-donkerbruin.1.glb",
+    "dimensions": { "width": 29, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 756,
+    "title": "Boombank donkerbruin zeskant",
+    "model": "boombankzeshoek-donkerbruin.1.glb",
+    "dimensions": { "width": 112, "height": 101, "height3d": 0 }
+  },
+  {
+    "id": 446,
+    "title": "Boombank zeskant",
+    "model": "boombankzeshoek.1.glb",
+    "dimensions": { "width": 112, "height": 101, "height3d": 0 }
+  },
+  {
+    "id": 407,
+    "title": "Bosco",
+    "model": "bosco.1.glb",
+    "dimensions": { "width": 12, "height": 12, "height3d": 0 }
+  },
+  {
+    "id": 757,
+    "title": "Bosco donkerbruin",
+    "model": "bosco-donkerbruin.1.glb",
+    "dimensions": { "width": 12, "height": 12, "height3d": 0 }
+  },
+  {
+    "id": 1635,
+    "title": "Brievenbus cortenstaal",
+    "model": "adezz-brievenbus-corten-1c61c148f7059b7c3ae0.glb",
+    "dimensions": { "width": 25, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1634,
+    "title": "Brievenbus wit",
+    "model": "adezz-brievenbus-aluminium-a94626e1bc1249c70b32.glb",
+    "dimensions": { "width": 25, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 86,
+    "title": "Buitenkeuken",
+    "model": "buitenkeuken.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 751,
+    "title": "Buitenkeuken blauw",
+    "model": "buitenkeuken-blauw.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 754,
+    "title": "Buitenkeuken donkerbruin",
+    "model": "buitenkeuken-donkerbruin.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 753,
+    "title": "Buitenkeuken grijs",
+    "model": "buitenkeuken-grijs.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 752,
+    "title": "Buitenkeuken roodbruin",
+    "model": "buitenkeuken-roodbruin.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 750,
+    "title": "Buitenkeuken zwart",
+    "model": "buitenkeuken-zwart.1.glb",
+    "dimensions": { "width": 41, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 458,
+    "title": "Buitenverblijf 400 x 400 x h270 ",
+    "model": "buitenverblijf.1.glb",
+    "dimensions": { "width": 200, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 826,
+    "title": "Buitenverblijf C1 Comfort 400 x 330 x h250",
+    "model": "buitenverblijf-c1.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1005,
+    "title": "Buitenverblijf C1 Comfort 605 x 305 x h250",
+    "model": "buitenverblijfvrijbuiterc1.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 829,
+    "title": "Buitenverblijf C5S 300 x 330 x h250",
+    "model": "buitenverblijf-c5s.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1051,
+    "title": "Buitenverblijf C5S 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c5s.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 830,
+    "title": "Buitenverblijf C6Z 600 x 330 x h250",
+    "model": "buitenverblijf-c6z.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 460,
+    "title": "| Buitenverblijf comfort 400 x 400 x h270 |",
+    "model": "buitenverblijf-epdm.1.glb",
+    "dimensions": { "width": 200, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1052,
+    "title": "Buitenverblijf Comfort C2S 300 x 330 x h250",
+    "model": "buitenverblijfcomfortc2s.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 827,
+    "title": "Buitenverblijf Comfort C2Z 300 x 330 x h250",
+    "model": "buitenverblijf-c2z.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1010,
+    "title": "Buitenverblijf Comfort C2Z 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c2z.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1053,
+    "title": "Buitenverblijf Comfort C3S 300 x 330 x h250",
+    "model": "buitenverblijfcomfortc3s.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 839,
+    "title": "Buitenverblijf Comfort C3Z 300 x 330 x h250",
+    "model": "buitenverblijf-c3z.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1046,
+    "title": "Buitenverblijf Comfort C3Z 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c3z.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1048,
+    "title": "Buitenverblijf Comfort C4b 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c4b.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1054,
+    "title": "Buitenverblijf Comfort C4S 300 x 330 x h250",
+    "model": "buitenverblijfcomfortc4s.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 840,
+    "title": "Buitenverblijf Comfort C4Z 300 x 330 x h250",
+    "model": "buitenverblijf-c4z.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1047,
+    "title": "Buitenverblijf Comfort C4Z 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c4z.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1050,
+    "title": "Buitenverblijf Comfort C5B 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c5b.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 602,
+    "title": "Buitenverblijf Comfort C5Z 300 x 330 x h250",
+    "model": "buitenverblijf-c5z.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1049,
+    "title": "Buitenverblijf Comfort C5Z 600 x 330 x h250",
+    "model": "buitenverblijfcomfort600c5z.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1006,
+    "title": "Buitenverblijf Vrijbuiter C2 605 x 305 x h250",
+    "model": "buitenverblijfvrijbuiterc2.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 1586,
+    "title": "Burni Bran",
+    "model": "burnionbehandeld.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1501,
+    "title": "Burni onbehandeld",
+    "model": "burnienokdeur-onbehandeld.1.glb",
+    "dimensions": { "width": 50, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1584,
+    "title": "Burni skip",
+    "model": "burniskipp.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 1583,
+    "title": "Burni vuurtafel",
+    "model": "burnivuurtafel.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 1585,
+    "title": "Burni vuurtafel vierkant",
+    "model": "burnivuurtafelvierkant.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1502,
+    "title": "Burni zwart",
+    "model": "burnienokdeur-zwart.1.glb",
+    "dimensions": { "width": 50, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1214,
+    "title": "Buxus b40 x l120 x h100",
+    "model": "buxusblok-40-120-100.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1172,
+    "title": "Buxus b40 x l120 x h120",
+    "model": "buxusblok-40-120-120.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1173,
+    "title": "Buxus b40 x l120 x h150",
+    "model": "buxusblok-40-120-150.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1215,
+    "title": "Buxus b40 x l120 x h180",
+    "model": "buxusblok-40-120-180.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1174,
+    "title": "Buxus b40 x l120 x h220",
+    "model": "buxusblok-40-120-220.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1171,
+    "title": "Buxus b40 x l120 x h80",
+    "model": "buxusblok-40-120-80.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 74,
+    "title": "Buxusblok 120",
+    "model": "buxus.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1446,
+    "title": "Buxus-blok 80 x80 x h120",
+    "model": "buxusblok-80-80-120.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1447,
+    "title": "Buxus-blok 80 x80 x h150",
+    "model": "buxusblok-80-80-150.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1448,
+    "title": "Buxus-blok 80 x80 x h180",
+    "model": "buxusblok-80-80-180.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1449,
+    "title": "Buxus-blok 80 x80 x h220",
+    "model": "buxusblok-80-80-220.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1450,
+    "title": "Buxus-blok 80 x80 x h250",
+    "model": "buxusblok-80-80-250.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 843,
+    "title": "Buxus-blok 80 x 80 x h80",
+    "model": "buxusblok-80-80-80.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1424,
+    "title": "Buxus-blok b40 x l40 x h100",
+    "model": "buxusblok-40-40-100.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1423,
+    "title": "Buxus-blok b40 x l40 x h120",
+    "model": "buxusblok-40-40-120.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1422,
+    "title": "Buxus-blok b40 x l40 x h150",
+    "model": "buxusblok-40-40-150.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1421,
+    "title": "Buxus-blok b40 x l40 x h180",
+    "model": "buxusblok-40-40-180.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1420,
+    "title": "Buxus-blok b40 x l40 x h220",
+    "model": "buxusblok-40-40-220.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1425,
+    "title": "Buxus-blok b40 x l40 x h80",
+    "model": "buxusblok-40-40-80.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1494,
+    "title": "Buxus-blok b80 x l80 x h100",
+    "model": "taxusblok-80-80-100.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 841,
+    "title": "Buxus-bol 120",
+    "model": "buxusbol-120.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1457,
+    "title": "Buxus-bol 150",
+    "model": "buxusbol-150.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1458,
+    "title": "Buxus-bol 180",
+    "model": "buxusbol-180.1.glb",
+    "dimensions": { "width": 90, "height": 90, "height3d": 0 }
+  },
+  {
+    "id": 1459,
+    "title": "Buxus-bol 220",
+    "model": "buxusbol-220.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1460,
+    "title": "Buxus-bol 250",
+    "model": "buxusbol-250.1.glb",
+    "dimensions": { "width": 125, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 842,
+    "title": "Buxus-kegel 120",
+    "model": "buxuskegel-120.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1452,
+    "title": "Buxus-kegel 150",
+    "model": "buxuskegel-150.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1453,
+    "title": "Buxus-kegel 180",
+    "model": "buxuskegel-180.1.glb",
+    "dimensions": { "width": 90, "height": 90, "height3d": 0 }
+  },
+  {
+    "id": 1454,
+    "title": "Buxus-kegel 220",
+    "model": "buxuskegel-220.1.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1455,
+    "title": "Buxus-kegel 250",
+    "model": "buxuskegel-250.1.glb",
+    "dimensions": { "width": 125, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 519,
+    "title": "Buxus schets",
+    "model": "buxus.1.glb",
+    "dimensions": { "width": 38, "height": 45, "height3d": 0 }
+  },
+  {
+    "id": 1286,
+    "title": "C1 | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc1-darkroof-300.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 961,
+    "title": "C1 | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijf-c1-epdm.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1287,
+    "title": "C1 | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc1-darkroof-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1288,
+    "title": "C1 | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc1-darkroof-600.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1289,
+    "title": "C1 | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc1-darkroof-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1290,
+    "title": "C1 | Buitenverblijf Comfort | 900 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc1-darkroof-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1293,
+    "title": "C1 | Vrijbuiter | 400 x 300 x h250 | ",
+    "model": "buitenverblijfvrijbuiterc1-400-300.1.glb",
+    "dimensions": { "width": 153, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1294,
+    "title": "C1 | Vrijbuiter | 500 x 300 x h250 |",
+    "model": "buitenverblijfvrijbuiterc1-500-300.1.glb",
+    "dimensions": { "width": 153, "height": 250, "height3d": 0 }
+  },
+  {
+    "id": 1043,
+    "title": "C1 | Vrijbuiter | 600 x 300 x h250 | ",
+    "model": "buitenverblijfvrijbuiterc1-epdm.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 1340,
+    "title": "C2B | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-300.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1341,
+    "title": "C2B | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1342,
+    "title": "C2B | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1343,
+    "title": "C2B | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-600.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1344,
+    "title": "C2B | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1345,
+    "title": "C2B | Buitenverblijf Comfort | 900 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2b-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1018,
+    "title": "C2S | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1325,
+    "title": "C2S | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1326,
+    "title": "C2S | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1327,
+    "title": "C2S | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-600.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1328,
+    "title": "C2S | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1329,
+    "title": "C2S | Buitenverblijf Comfort | 900 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2s-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1291,
+    "title": "C2 | Vrijbuiter | 400 x 300 x h250 | ",
+    "model": "buitenverblijfvrijbuiterc2-400-300.1.glb",
+    "dimensions": { "width": 153, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1292,
+    "title": "C2 | Vrijbuiter | 500 x 300 x h250 | ",
+    "model": "buitenverblijfvrijbuiterc2-500-300.1.glb",
+    "dimensions": { "width": 153, "height": 250, "height3d": 0 }
+  },
+  {
+    "id": 1044,
+    "title": "C2 | Vrijbuiter | 600 x 300 x h250  |",
+    "model": "buitenverblijfvrijbuiterc2-epdm.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 988,
+    "title": "C2Z | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijf-c2z-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1307,
+    "title": "C2Z | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2z-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1308,
+    "title": "C2Z | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2z-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1011,
+    "title": "C2Z | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfort600c2z-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1309,
+    "title": "C2Z | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc2z-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1310,
+    "title": "C2Z | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc2z-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1007,
+    "title": "C3 | 600 x 300 x h250",
+    "model": "buitenverblijfvrijbuiterc3.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 1019,
+    "title": "C3S | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1330,
+    "title": "C3S | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1331,
+    "title": "C3S | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1332,
+    "title": "C3S | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-600.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1333,
+    "title": "C3S | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1334,
+    "title": "C3S | Buitenverblijf Comfort | 900 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc3s-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1364,
+    "title": "C3 | Vrijbuiter | 500 x 300 x h250 |",
+    "model": "buitenverblijfvrijbuiterc3-500-300.1.glb",
+    "dimensions": { "width": 153, "height": 253, "height3d": 0 }
+  },
+  {
+    "id": 1045,
+    "title": "C3 | Vrijbuiter | 600 x 300 x h250",
+    "model": "buitenverblijfvrijbuiterc3-epdm.1.glb",
+    "dimensions": { "width": 153, "height": 303, "height3d": 0 }
+  },
+  {
+    "id": 989,
+    "title": "C3Z | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijf-c3z-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1303,
+    "title": "C3Z | Buitenverblijf Comfort | 400 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc3z-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1304,
+    "title": "C3Z | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc3z-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1012,
+    "title": "C3Z | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijfcomfort600c3z-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1305,
+    "title": "C3Z | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc3z-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1306,
+    "title": "C3Z | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc3z-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1311,
+    "title": "C4B | Buitenverblijf Comfort | 300 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4b-300.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1312,
+    "title": "C4B | Buitenverblijf Comfort | 400 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4b-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1313,
+    "title": "C4B | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4b-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1014,
+    "title": "C4B | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijfcomfort600c4b-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1314,
+    "title": "C4B | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4b-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1315,
+    "title": "C4B | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4b-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1020,
+    "title": "C4S | Buitenverblijf Comfort | 300 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1335,
+    "title": "C4S | Buitenverblijf Comfort | 400 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1336,
+    "title": "C4S | Buitenverblijf Comfort | 500 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1337,
+    "title": "C4S | Buitenverblijf Comfort | 600 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-600.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1338,
+    "title": "C4S | Buitenverblijf Comfort | 750 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1339,
+    "title": "C4S | Buitenverblijf Comfort | 900 x 300 x h250 |",
+    "model": "buitenverblijfcomfortc4s-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 990,
+    "title": "C4 | Vrijbuiter | 600 x 300 x h250",
+    "model": "buitenverblijf-c4-epdm.1.glb",
+    "dimensions": { "width": 303, "height": 153, "height3d": 0 }
+  },
+  {
+    "id": 828,
+    "title": "C4 | Vrijbuiter | 600 x 300 x h250",
+    "model": "buitenverblijf-c4.1.glb",
+    "dimensions": { "width": 303, "height": 153, "height3d": 0 }
+  },
+  {
+    "id": 991,
+    "title": "C4Z | Buitenverblijf Comfort | 300 x 300 x h250 | ",
+    "model": "buitenverblijf-c4z-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1299,
+    "title": "C4Z | Buitenverblijf Comfort | 400 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4z-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1300,
+    "title": "C4Z | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4z-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1013,
+    "title": "C4Z | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijfcomfort600c4z-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1301,
+    "title": "C4Z | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4z-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1302,
+    "title": "C4Z | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc4z-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1316,
+    "title": "C5B | Buitenverblijf Comfort | 300 x 300 x h250 | ",
+    "model": "buitenverblijf-c5s-epdm.1-afff6670d77f86805389.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1317,
+    "title": "C5B | Buitenverblijf Comfort | 400 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5b-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1318,
+    "title": "C5B | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5b-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1016,
+    "title": "C5B | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijfcomfort600c5b-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1319,
+    "title": "C5B | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5b-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1320,
+    "title": "C5B | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5b-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 993,
+    "title": "C5S | Buitenverblijf Comfort | 300 x 330 x h250 | ",
+    "model": "buitenverblijf-c5s-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1322,
+    "title": "C5S | Buitenverblijf Comfort | 400 x 330 x h250 | ",
+    "model": "buitenverblijfcomfortc5s-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1321,
+    "title": "C5S | Buitenverblijf Comfort | 500 x 330 x h250 | ",
+    "model": "buitenverblijfcomfortc5s-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1017,
+    "title": "C5S | Buitenverblijf Comfort | 600 x 330 x h250 | ",
+    "model": "buitenverblijfcomfort600c5s-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1324,
+    "title": "C5S | Buitenverblijf Comfort | 750 x 330 x h250 | ",
+    "model": "buitenverblijfcomfortc5s-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1323,
+    "title": "C5S | Buitenverblijf Comfort | 900 x 330 x h250 | ",
+    "model": "buitenverblijfcomfortc5s-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 992,
+    "title": "C5Z | Buitenverblijf Comfort | 300 x 300 x h250 | ",
+    "model": "buitenverblijf-c5z-epdm.1.glb",
+    "dimensions": { "width": 150, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1282,
+    "title": "C5Z | Buitenverblijf Comfort | 400 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5z-400.1.glb",
+    "dimensions": { "width": 200, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1283,
+    "title": "C5Z | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5z-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1015,
+    "title": "C5Z | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijfcomfort600c5z-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1284,
+    "title": "C5Z | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5z-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1285,
+    "title": "C5Z | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc5z-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1296,
+    "title": "C6Z | Buitenverblijf Comfort | 500 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc6z-500.1.glb",
+    "dimensions": { "width": 250, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 994,
+    "title": "C6Z | Buitenverblijf Comfort | 600 x 300 x h250 | ",
+    "model": "buitenverblijf-c6z-epdm.1.glb",
+    "dimensions": { "width": 300, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1297,
+    "title": "C6Z | Buitenverblijf Comfort | 750 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc6z-750.1.glb",
+    "dimensions": { "width": 375, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1298,
+    "title": "C6Z | Buitenverblijf Comfort | 900 x 300 x h250 | ",
+    "model": "buitenverblijfcomfortc6z-900.1.glb",
+    "dimensions": { "width": 450, "height": 165, "height3d": 0 }
+  },
+  {
+    "id": 1206,
+    "title": "Clematis blauw",
+    "model": "clematis-blauw.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1243,
+    "title": "Clematis blauw h100",
+    "model": "clematis-blauw-100.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1223,
+    "title": "Clematis blauw h150",
+    "model": "clematis-blauw-150.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1224,
+    "title": "Clematis blauw h200",
+    "model": "clematis-blauw-200.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1245,
+    "title": "Clematis blauw h250",
+    "model": "clematis-blauw-250.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1250,
+    "title": "Clematis blauw h300",
+    "model": "clematis-blauw-300.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1208,
+    "title": "Clematis paars",
+    "model": "clematis.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1244,
+    "title": "Clematis paars h100",
+    "model": "clematis-100.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1229,
+    "title": "Clematis paars h150",
+    "model": "clematis-150.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1230,
+    "title": "Clematis paars h200",
+    "model": "clematis-200.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1248,
+    "title": "Clematis paars h250",
+    "model": "clematis-250.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1249,
+    "title": "Clematis paars h300",
+    "model": "clematis-300.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1205,
+    "title": "Clematis rood",
+    "model": "clematis-rood.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1241,
+    "title": "Clematis rood h100",
+    "model": "clematis-rood-100.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1227,
+    "title": "Clematis rood h150",
+    "model": "clematis-rood-150.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1228,
+    "title": "Clematis rood h200",
+    "model": "clematis-rood-200.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1246,
+    "title": "Clematis rood h250",
+    "model": "clematis-rood-250.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1251,
+    "title": "Clematis rood h300",
+    "model": "clematis-rood-300.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1207,
+    "title": "Clematis wit",
+    "model": "clematis-wit.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1242,
+    "title": "Clematis wit h100",
+    "model": "clematis-wit-100.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1225,
+    "title": "Clematis wit h150",
+    "model": "clematis-wit-150.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1226,
+    "title": "Clematis wit h200",
+    "model": "clematis-wit-200.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1247,
+    "title": "Clematis wit h250",
+    "model": "clematis-wit-250.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1252,
+    "title": "Clematis wit h300",
+    "model": "clematis-wit-300.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 50,
+    "title": "Conifeer",
+    "model": "conifeer.1.glb",
+    "dimensions": { "width": 37, "height": 44, "height3d": 0 }
+  },
+  {
+    "id": 1255,
+    "title": "Conifeer b40 x l120 x h100",
+    "model": "conifeerblok-40-120-100.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1256,
+    "title": "Conifeer b40 x l120 x h120",
+    "model": "conifeerblok-40-120-120.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1257,
+    "title": "Conifeer b40 x l120 x h150",
+    "model": "conifeerblok-40-120-150.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1258,
+    "title": "Conifeer b40 x l120 x h180",
+    "model": "conifeerblok-40-120-180.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1259,
+    "title": "Conifeer b40 x l120 x h220",
+    "model": "conifeerblok-40-120-220.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1254,
+    "title": "Conifeer b40 x l120 x h80",
+    "model": "conifeerblok-40-120-80.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1443,
+    "title": "Conifeer-blok b40 x l40 x h100",
+    "model": "conifeerblok-40-40-100.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1441,
+    "title": "Conifeer-blok b40 x l40 x h120",
+    "model": "conifeerblok-40-40-120.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1440,
+    "title": "Conifeer-blok b40 x l40 x h150",
+    "model": "conifeerblok-40-40-150.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1439,
+    "title": "Conifeer-blok b40 x l40 x h180",
+    "model": "conifeerblok-40-40-180.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1438,
+    "title": "Conifeer-blok b40 x l40 x h220",
+    "model": "conifeerblok-40-40-220.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1524,
+    "title": "Conifeer-blok b40 x l40 x h250",
+    "model": "conifeerblok-40-40-250.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1442,
+    "title": "Conifeer-blok b40 x l40 x h80",
+    "model": "conifeerblok2-40-40-80.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1526,
+    "title": "Conifeer-blok b80 x l80 x h100",
+    "model": "conifeerblok-80-80-100.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1527,
+    "title": "Conifeer-blok b80 x l80 x h120",
+    "model": "conifeerblok-80-80-120.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1528,
+    "title": "Conifeer-blok b80 x l80 x h150",
+    "model": "conifeerblok-80-80-150.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1529,
+    "title": "Conifeer-blok b80 x l80 x h180",
+    "model": "conifeerblok-80-80-180.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1530,
+    "title": "Conifeer-blok b80 x l80 x h220",
+    "model": "conifeerblok-80-80-220.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1531,
+    "title": "Conifeer-blok b80 x l80 x h250",
+    "model": "conifeerblok-80-80-250.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1525,
+    "title": "Conifeer-blok b80 x l80 x h80",
+    "model": "conifeerblok-80-80-80.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 625,
+    "title": "Conifeer donkerbruin",
+    "model": "conifeer-donkerbruin.1.glb",
+    "dimensions": { "width": 37, "height": 44, "height3d": 0 }
+  },
+  {
+    "id": 627,
+    "title": "Conifeer geelbruin",
+    "model": "conifeer-geelbruin.1.glb",
+    "dimensions": { "width": 37, "height": 44, "height3d": 0 }
+  },
+  {
+    "id": 626,
+    "title": "Conifeer lichtgroen",
+    "model": "conifeer-lichtgroen.1.glb",
+    "dimensions": { "width": 37, "height": 44, "height3d": 0 }
+  },
+  {
+    "id": 509,
+    "title": "Conifeer schets",
+    "model": "conifeer.1.glb",
+    "dimensions": { "width": 74, "height": 87, "height3d": 0 }
+  },
+  {
+    "id": 471,
+    "title": "Cornus",
+    "model": "meerstammigeboom.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 1 }
+  },
+  {
+    "id": 592,
+    "title": "Cornus bruin",
+    "model": "meerstammigeboom-bruin.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 0 }
+  },
+  {
+    "id": 1042,
+    "title": "Cornus donker",
+    "model": "meerstammigeboom-donkerbruin.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 1 }
+  },
+  {
+    "id": 1041,
+    "title": "Cornus geel",
+    "model": "meerstammigeboom-geelbruin.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 1 }
+  },
+  {
+    "id": 1267,
+    "title": "Cornus Kousa wit",
+    "model": "cornuskousa.1.glb",
+    "dimensions": { "width": 80, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1040,
+    "title": "Cornus rood",
+    "model": "meerstammigeboom-rood.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 1 }
+  },
+  {
+    "id": 589,
+    "title": "Dakboom",
+    "model": "dakplataan.1.glb",
+    "dimensions": { "width": 94, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 630,
+    "title": "Dakboom bruingroen",
+    "model": "dakplataan-bruingroen.1.glb",
+    "dimensions": { "width": 94, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 629,
+    "title": "Dakboom roodbruin",
+    "model": "dakplataan-roodbruin.1.glb",
+    "dimensions": { "width": 94, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 51,
+    "title": "Dakplataan",
+    "model": "dakplataan.1.glb",
+    "dimensions": { "width": 94, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 508,
+    "title": "Dakplataan schets",
+    "model": "dakplataan.1.glb",
+    "dimensions": { "width": 94, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 573,
+    "title": "Dame",
+    "model": "dame.1.glb",
+    "dimensions": { "width": 28, "height": 21 }
+  },
+  {
+    "id": 402,
+    "title": "Deur",
+    "model": "deur.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1503,
+    "title": "Deur (blind)",
+    "model": "deurprestigeenkeledichte-normal.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 773,
+    "title": "Deur bruin",
+    "model": "deur-bruin.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1504,
+    "title": "Deur bruin blind",
+    "model": "deurprestigeenkeledichte-bruin.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 774,
+    "title": "Deur grijs",
+    "model": "deur-grijs.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1505,
+    "title": "Deur grijs (blind)",
+    "model": "deurprestigeenkeledichte-grijs.1.glb",
+    "dimensions": { "width": 55, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1509,
+    "title": "Deur vuren (blind)",
+    "model": "deurvuren-normal.1.glb",
+    "dimensions": { "width": 46, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 89,
+    "title": "Dierenverblijf",
+    "model": "dierenverblijf.1.glb",
+    "dimensions": { "width": 152, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 712,
+    "title": "Dierenverblijf donkerbruin",
+    "model": "dierenverblijf-donkerbruin.1.glb",
+    "dimensions": { "width": 152, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 713,
+    "title": "Dierenverblijf grijs",
+    "model": "dierenverblijf-grijs.1.glb",
+    "dimensions": { "width": 152, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 467,
+    "title": "Douglas-balk ◼︎20 x b240 x h200",
+    "model": "douglaspaal.1.glb",
+    "dimensions": { "width": 10, "height": 120, "height3d": 0 }
+  },
+  {
+    "id": 1062,
+    "title": "Douglas-balk ◼︎20 x b470 x h200",
+    "model": "douglaspaal-doublesize.1.glb",
+    "dimensions": { "width": 10, "height": 235, "height3d": 0 }
+  },
+  {
+    "id": 1418,
+    "title": "Douglas-paal ◼︎20 x h120",
+    "model": "douglaspaal-180.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1419,
+    "title": "Douglas-paal ◼︎20 x h150",
+    "model": "douglaspaal-180.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1412,
+    "title": "Douglas-paal ◼︎20 x h180",
+    "model": "douglaspaal-180.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 468,
+    "title": "Douglas-paal ◼︎20 x h200",
+    "model": "douglaspaal.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1414,
+    "title": "Douglas-paal ◼︎20 x h250",
+    "model": "douglaspaal-250.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1415,
+    "title": "Douglas-paal ◼︎20 x h300",
+    "model": "douglaspaal-300.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1416,
+    "title": "Douglas-paal ◼︎20 x h350",
+    "model": "douglaspaal-350.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1061,
+    "title": "Douglas-paal ◼︎20 x h410",
+    "model": "douglaspaal-doublesize.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 1411,
+    "title": "Douglas-paal ◼︎20 x h50",
+    "model": "douglaspaal-50.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 100 }
+  },
+  {
+    "id": 564,
+    "title": "Drie-stammig bruin ",
+    "model": "meerstammigeboom-3-stammen-bruin.1.glb",
+    "dimensions": { "width": 318, "height": 279, "height3d": 0 }
+  },
+  {
+    "id": 1039,
+    "title": "Drie-stammig donkerbruin ",
+    "model": "meerstammigeboom-3-stammen-donkerbruin.1.glb",
+    "dimensions": { "width": 318, "height": 279, "height3d": 0 }
+  },
+  {
+    "id": 1038,
+    "title": "Drie-stammig geel",
+    "model": "meerstammigeboom-3-stammen-geelbruin.1.glb",
+    "dimensions": { "width": 318, "height": 279, "height3d": 0 }
+  },
+  {
+    "id": 1036,
+    "title": "Drie-stammig groen ",
+    "model": "meerstammigeboom-3-stammen.1.glb",
+    "dimensions": { "width": 318, "height": 279, "height3d": 0 }
+  },
+  {
+    "id": 1037,
+    "title": "Drie-stammig rood",
+    "model": "meerstammigeboom-3-stammen-rood.1.glb",
+    "dimensions": { "width": 318, "height": 279, "height3d": 0 }
+  },
+  {
+    "id": 52,
+    "title": "Droogmolen",
+    "model": "droogmolen.1.glb",
+    "dimensions": { "width": 83, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 971,
+    "title": "Druppelsteen Acqua Arte set Mires",
+    "model": "acquaartemires.1.glb",
+    "dimensions": { "width": 20, "height": 16, "height3d": 0 }
+  },
+  {
+    "id": 970,
+    "title": "Druppelsteen Acqua Arte set Modena",
+    "model": "acquaartemodena.1.glb",
+    "dimensions": { "width": 25, "height": 26, "height3d": 0 }
+  },
+  {
+    "id": 439,
+    "title": "Dubbel deur (blind)",
+    "model": "garagedeur.1.glb",
+    "dimensions": { "width": 99, "height": 4, "height3d": 0 }
+  },
+  {
+    "id": 401,
+    "title": "Dubbele deur",
+    "model": "dubbeledeur.1.glb",
+    "dimensions": { "width": 101, "height": 7, "height3d": 1 }
+  },
+  {
+    "id": 775,
+    "title": "Dubbele deur bruin",
+    "model": "dubbeledeur-donkerbruin.1.glb",
+    "dimensions": { "width": 101, "height": 7, "height3d": 1 }
+  },
+  {
+    "id": 772,
+    "title": "Dubbele deur bruin (blind)",
+    "model": "garagedeur-bruin.1.glb",
+    "dimensions": { "width": 99, "height": 4, "height3d": 0 }
+  },
+  {
+    "id": 776,
+    "title": "Dubbele deur grijs",
+    "model": "dubbeledeur-grijs.1.glb",
+    "dimensions": { "width": 101, "height": 7, "height3d": 1 }
+  },
+  {
+    "id": 474,
+    "title": "Echinacae",
+    "model": "echinacae.1.glb",
+    "dimensions": { "width": 25, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 634,
+    "title": "Echinacae blauw",
+    "model": "echinacae-blauw.1.glb",
+    "dimensions": { "width": 25, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 632,
+    "title": "Echinacae bruinpaars",
+    "model": "echinacae-bruinpaars.1.glb",
+    "dimensions": { "width": 25, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 633,
+    "title": "Echinacae geel",
+    "model": "echinacae-geel.1.glb",
+    "dimensions": { "width": 25, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 635,
+    "title": "Echinacae geelbruin",
+    "model": "echinacae-geelbruin.1.glb",
+    "dimensions": { "width": 25, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 574,
+    "title": "Eend",
+    "model": "eend.1.glb",
+    "dimensions": { "width": 5, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 199,
+    "title": "Eik",
+    "model": "eik.1.glb",
+    "dimensions": { "width": 309, "height": 303, "height3d": 1 }
+  },
+  {
+    "id": 636,
+    "title": "Eik bruin",
+    "model": "eik-bruin.1.glb",
+    "dimensions": { "width": 309, "height": 303, "height3d": 1 }
+  },
+  {
+    "id": 637,
+    "title": "Eik bruingeel",
+    "model": "eik-bruingeel.1.glb",
+    "dimensions": { "width": 309, "height": 303, "height3d": 1 }
+  },
+  {
+    "id": 638,
+    "title": "Eik rood",
+    "model": "eik-rood.1.glb",
+    "dimensions": { "width": 309, "height": 303, "height3d": 1 }
+  },
+  {
+    "id": 507,
+    "title": "Eik schets",
+    "model": "eik.1.glb",
+    "dimensions": { "width": 200, "height": 200, "height3d": 1 }
+  },
+  {
+    "id": 54,
+    "title": "Enkele deur (gesloten)",
+    "model": "enkeledeur.1.glb",
+    "dimensions": { "width": 55, "height": 8, "height3d": 0 }
+  },
+  {
+    "id": 806,
+    "title": "Enkele deur (gesloten) bruin",
+    "model": "enkeledeur-donkerbruin.1.glb",
+    "dimensions": { "width": 55, "height": 8, "height3d": 0 }
+  },
+  {
+    "id": 807,
+    "title": "Enkele deur (gesloten) grijs",
+    "model": "enkeledeur-grijs.1.glb",
+    "dimensions": { "width": 55, "height": 8, "height3d": 0 }
+  },
+  {
+    "id": 805,
+    "title": "Enkele deur (gesloten) zwart",
+    "model": "enkeledeur-zwart.1.glb",
+    "dimensions": { "width": 55, "height": 8, "height3d": 0 }
+  },
+  {
+    "id": 110,
+    "title": "Enkele deur (open)",
+    "model": "enkeledeuropen.1.glb",
+    "dimensions": { "width": 60, "height": 54, "height3d": 0 }
+  },
+  {
+    "id": 802,
+    "title": "Enkele deur (open) bruin",
+    "model": "enkeledeuropen-donkerbruin.1.glb",
+    "dimensions": { "width": 60, "height": 54, "height3d": 0 }
+  },
+  {
+    "id": 804,
+    "title": "Enkele deur (open) grijs",
+    "model": "enkeledeuropen-grijs.1.glb",
+    "dimensions": { "width": 60, "height": 54, "height3d": 0 }
+  },
+  {
+    "id": 803,
+    "title": "Enkele deur (open) zwart",
+    "model": "enkeledeuropen-zwart.1.glb",
+    "dimensions": { "width": 60, "height": 54, "height3d": 0 }
+  },
+  {
+    "id": 417,
+    "title": "Ereprijs",
+    "model": "ereprijs-tall.1.glb",
+    "dimensions": { "width": 25, "height": 16, "height3d": 0 }
+  },
+  {
+    "id": 684,
+    "title": "Ereprijs licht m2",
+    "model": "ereprijs.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 977,
+    "title": "Ereprijs lichtpaars",
+    "model": "ereprijs-los-lichtpaars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 641,
+    "title": "Ereprijs lichtpaars m2",
+    "model": "ereprijs-lichtpaars.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 978,
+    "title": "Ereprijs paars",
+    "model": "ereprijs-los-paars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 980,
+    "title": "Ereprijs roze",
+    "model": "ereprijs-los-roze.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 640,
+    "title": "Ereprijs roze m2",
+    "model": "ereprijs-roze.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 981,
+    "title": "Ereprijs wit",
+    "model": "ereprijs-los-wit.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 639,
+    "title": "Ereprijs wit m2",
+    "model": "ereprijs-wit.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1209,
+    "title": "Es",
+    "model": "es.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 413,
+    "title": "Eye",
+    "model": "eye.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 87,
+    "title": "Fiets",
+    "model": "fiets.1.glb",
+    "dimensions": { "width": 46, "height": 105, "height3d": 0 }
+  },
+  {
+    "id": 1665,
+    "title": "Fietsbeugel",
+    "model": "fietsbeugel-beton-0abcacb66755fa932c4d.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 765,
+    "title": "Fiets groenblauw",
+    "model": "fiets-groenblauw.1.glb",
+    "dimensions": { "width": 46, "height": 105, "height3d": 0 }
+  },
+  {
+    "id": 766,
+    "title": "Fiets rood",
+    "model": "fiets-rood.1.glb",
+    "dimensions": { "width": 46, "height": 105, "height3d": 0 }
+  },
+  {
+    "id": 767,
+    "title": "Fiets zwart",
+    "model": "fiets-zwart.1.glb",
+    "dimensions": { "width": 46, "height": 105, "height3d": 0 }
+  },
+  {
+    "id": 472,
+    "title": "Fruitboom",
+    "model": "fruitboom.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 1 }
+  },
+  {
+    "id": 643,
+    "title": "Fruitboom bruin",
+    "model": "fruitboom-bruin.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 1 }
+  },
+  {
+    "id": 590,
+    "title": "Fruitboom groot",
+    "model": "alleenstaandeboom.1.glb",
+    "dimensions": { "width": 181, "height": 184, "height3d": 1 }
+  },
+  {
+    "id": 591,
+    "title": "Fruitboom groot bruin",
+    "model": "alleenstaandeboom-bruin.1.glb",
+    "dimensions": { "width": 181, "height": 184, "height3d": 1 }
+  },
+  {
+    "id": 642,
+    "title": "Fruitboom rood",
+    "model": "fruitboom-rood.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 1 }
+  },
+  {
+    "id": 204,
+    "title": "Gardena waterpunt",
+    "model": "gardenawaterpunt.1.glb",
+    "dimensions": { "width": 13, "height": 13, "height3d": 100 }
+  },
+  {
+    "id": 1667,
+    "title": "Gaura Lindheimeri whirling butterfly",
+    "model": "gaura-lindheimeri-whirling-butterfly-c5b7ac52eeffec3f4366.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1666,
+    "title": "Gaura Lindheimeri white dove",
+    "model": "gaura-lindheimeri-white-dove-6f098fdfa3eb6e97981a.glb",
+    "dimensions": { "width": 65, "height": 65, "height3d": 0 }
+  },
+  {
+    "id": 463,
+    "title": "Geit",
+    "model": "geit.1.glb",
+    "dimensions": { "width": 7, "height": 26, "height3d": 0 }
+  },
+  {
+    "id": 1636,
+    "title": "Gemak stoel",
+    "model": "adezz-chair-white-b5d96407d90c0fd16d3d.glb",
+    "dimensions": { "width": 47, "height": 36, "height3d": 0 }
+  },
+  {
+    "id": 418,
+    "title": "Geranium m2",
+    "model": "geranium.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1003,
+    "title": "Geranium paars",
+    "model": "geranium-los-paars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 1004,
+    "title": "Geranium rood",
+    "model": "geranium-los-rood.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 645,
+    "title": "Geranium rood m2",
+    "model": "geranium-rood.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1508,
+    "title": "Glasdeur 4 ruits",
+    "model": "deurvuren-glas4.1.glb",
+    "dimensions": { "width": 46, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1507,
+    "title": "Glasdeur 6 ruits",
+    "model": "deurvuren-glas6.1.glb",
+    "dimensions": { "width": 46, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 1506,
+    "title": "Glasdeur 8 ruits",
+    "model": "deurvuren-glas8.1.glb",
+    "dimensions": { "width": 46, "height": 5, "height3d": 1 }
+  },
+  {
+    "id": 586,
+    "title": "Grasmaaier G",
+    "model": "grasmaaier.1.glb",
+    "dimensions": { "width": 30, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 965,
+    "title": "Haagbeuk b40 x l120 x h100",
+    "model": "haagbeuk.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1189,
+    "title": "Haagbeuk b40 x l120 x h120",
+    "model": "haagbeuk-40-120-120.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1190,
+    "title": "Haagbeuk b40 x l120 x h150",
+    "model": "haagbeuk-40-120-150.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1191,
+    "title": "Haagbeuk b40 x l120 x h180",
+    "model": "haagbeuk-40-120-180.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1192,
+    "title": "Haagbeuk b40 x l120 x h220",
+    "model": "haagbeuk-40-120-220.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1188,
+    "title": "Haagbeuk b40 x l120 x h80",
+    "model": "haagbeuk-40-120-80.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1430,
+    "title": "Haagbeuk-blok b40 x l40 x h100",
+    "model": "haagbeuk-40-40-100.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1429,
+    "title": "Haagbeuk-blok b40 x l40 x h120",
+    "model": "haagbeuk-40-40-120.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1428,
+    "title": "Haagbeuk-blok b40 x l40 x h150",
+    "model": "haagbeuk-40-40-150.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1427,
+    "title": "Haagbeuk-blok b40 x l40 x h180",
+    "model": "haagbeuk-40-40-180.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1426,
+    "title": "Haagbeuk-blok b40 x l40 x h220",
+    "model": "haagbeuk-40-40-220.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1431,
+    "title": "Haagbeuk-blok b40 x l40 x h80",
+    "model": "haagbeuk-40-40-80.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1533,
+    "title": "Haagbeuk-blok b80 x l80 x h120",
+    "model": "haagbeuk-80-80-120.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1534,
+    "title": "Haagbeuk-blok b80 x l80 x h150",
+    "model": "haagbeuk-80-80-150.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1535,
+    "title": "Haagbeuk-blok b80 x l80 x h180",
+    "model": "haagbeuk-80-80-180.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1536,
+    "title": "Haagbeuk-blok b80 x l80 x h220",
+    "model": "haagbeuk-80-80-220.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1537,
+    "title": "Haagbeuk-blok b80 x l80 x h250",
+    "model": "haagbeuk-80-80-250.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1532,
+    "title": "Haagbeuk-blok b80 x l80 x h80",
+    "model": "haagbeuk-80-80-80.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1220,
+    "title": "Hedera b40 x l120 x h100",
+    "model": "hederablok-40-120-100.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1184,
+    "title": "Hedera b40 x l120 x h120",
+    "model": "hederablok-40-120-120.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1185,
+    "title": "Hedera b40 x l120 x h150",
+    "model": "hederablok-40-120-150.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1186,
+    "title": "Hedera b40 x l120 x h180",
+    "model": "hederablok-40-120-180.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1187,
+    "title": "Hedera b40 x l120 x h220",
+    "model": "hederablok-40-120-220.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1183,
+    "title": "Hedera b40 x l120 x h80",
+    "model": "hederablok-40-120-80.1.glb",
+    "dimensions": { "width": 20, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1436,
+    "title": "Hedera-blok b40 x l40 x h100",
+    "model": "hederablok-40-40-100.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1435,
+    "title": "Hedera-blok b40 x l40 x h120",
+    "model": "hederablok-40-40-120.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1434,
+    "title": "Hedera-blok b40 x l40 x h150",
+    "model": "hederablok-40-40-150.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1433,
+    "title": "Hedera-blok b40 x l40 x h180",
+    "model": "hederablok-40-40-180.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1432,
+    "title": "Hedera-blok b40 x l40 x h220",
+    "model": "hederablok-40-40-220.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1523,
+    "title": "Hedera-blok b40 x l40 x h250",
+    "model": "hederablok-80-80-250.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1437,
+    "title": "Hedera-blok b40 x l40 x h80",
+    "model": "hederablok-40-40-80.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 972,
+    "title": "Hedera wolk",
+    "model": "hedera.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 647,
+    "title": "Heester bruin",
+    "model": "heester-bruin.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 648,
+    "title": "Heester geel",
+    "model": "heester-geel.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 649,
+    "title": "Heester paars",
+    "model": "heester-paars.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 650,
+    "title": "Heester rood",
+    "model": "heester-rood.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 646,
+    "title": "Heester wit",
+    "model": "heester.1.glb",
+    "dimensions": { "width": 63, "height": 63, "height3d": 0 }
+  },
+  {
+    "id": 404,
+    "title": "Hekwerk staal",
+    "model": "hekwerk.1.glb",
+    "dimensions": { "width": 5, "height": 60, "height3d": 52.5 }
+  },
+  {
+    "id": 808,
+    "title": "Heuchera geel",
+    "model": "heuchera-geel.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 569,
+    "title": "Heuchera mic. 'Palace Purple’",
+    "model": "heuchera.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 809,
+    "title": "Heuchera paars",
+    "model": "heuchera-paars.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 1652,
+    "title": "Hocker",
+    "model": "adezz-hocker-white-343c894e23954ae15bbf.glb",
+    "dimensions": { "width": 43, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1366,
+    "title": "Hoekpaviljoen Goudplevier 358",
+    "model": "hoekpaviljoengoudplevier358.1.glb",
+    "dimensions": { "width": 179, "height": 179, "height3d": 0 }
+  },
+  {
+    "id": 1365,
+    "title": "Hoekpaviljoen Meerkoet 298",
+    "model": "hoekpaviljoenmeerkoet298.1.glb",
+    "dimensions": { "width": 149, "height": 149, "height3d": 0 }
+  },
+  {
+    "id": 576,
+    "title": "Hond",
+    "model": "hond.1.glb",
+    "dimensions": { "width": 6, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 216,
+    "title": "Hortensia",
+    "model": "hortensia.1.glb",
+    "dimensions": { "width": 51, "height": 52, "height3d": 0 }
+  },
+  {
+    "id": 652,
+    "title": "Hortensia blauwgeel",
+    "model": "hortensia-blauwgeel.1.glb",
+    "dimensions": { "width": 51, "height": 52, "height3d": 0 }
+  },
+  {
+    "id": 653,
+    "title": "Hortensia geelpaars",
+    "model": "hortensia-geelpaars.1.glb",
+    "dimensions": { "width": 51, "height": 52, "height3d": 0 }
+  },
+  {
+    "id": 475,
+    "title": "Hortensia limelight",
+    "model": "hortensialimelight.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 655,
+    "title": "Hortensia limelight paars",
+    "model": "hortensialimelight-paars.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 656,
+    "title": "Hortensia limelight rood",
+    "model": "hortensialimelight-rood.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 651,
+    "title": "Hortensia paars",
+    "model": "hortensia.1.glb",
+    "dimensions": { "width": 51, "height": 52, "height3d": 0 }
+  },
+  {
+    "id": 654,
+    "title": "Hortensia roodpaars",
+    "model": "hortensia-roodpaars.1.glb",
+    "dimensions": { "width": 51, "height": 51, "height3d": 0 }
+  },
+  {
+    "id": 504,
+    "title": "Hortensia schets",
+    "model": "hortensia.1.glb",
+    "dimensions": { "width": 81, "height": 82, "height3d": 0 }
+  },
+  {
+    "id": 1520,
+    "title": "Ilex b40 x l40 x h100",
+    "model": "crenatailex-40-40-100-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1519,
+    "title": "Ilex b40 x l40 x h120",
+    "model": "crenatailex-40-40-120-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1518,
+    "title": "Ilex b40 x l40 x h150",
+    "model": "crenatailex-40-40-150-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1517,
+    "title": "Ilex b40 x l40 x h180",
+    "model": "crenatailex-40-40-180-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1522,
+    "title": "Ilex b40 x l40 x h220",
+    "model": "crenatailex-40-40-220-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1521,
+    "title": "Ilex b40 x l40 x h80",
+    "model": "crenatailex-40-40-80-geel.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1218,
+    "title": "Ilex b70 x l150 x h100",
+    "model": "crenatailex-70-150-100-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1180,
+    "title": "Ilex b70 x l150 x h120",
+    "model": "crenatailex-70-150-120-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1181,
+    "title": "Ilex b70 x l150 x h150",
+    "model": "crenatailex-70-150-150-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1219,
+    "title": "Ilex b70 x l150 x h180",
+    "model": "crenatailex-70-150-180-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 628,
+    "title": "Ilex b70 x l150 x h200",
+    "model": "crenatailex-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1182,
+    "title": "Ilex b70 x l150 x h220",
+    "model": "crenatailex-70-150-220-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1179,
+    "title": "Ilex b70 x l150 x h80",
+    "model": "crenatailex-70-150-80-geel.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1515,
+    "title": "Ilex Crenata b40 x l40 x h100",
+    "model": "crenatailex-40-40-100-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1513,
+    "title": "Ilex Crenata b40 x l40 x h120",
+    "model": "crenatailex-40-40-120-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1512,
+    "title": "Ilex Crenata b40 x l40 x h150",
+    "model": "crenatailex-40-40-150-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1511,
+    "title": "Ilex Crenata b40 x l40 x h180",
+    "model": "crenatailex-40-40-180-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1516,
+    "title": "Ilex Crenata b40 x l40 x h220",
+    "model": "crenatailex-40-40-220-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1514,
+    "title": "Ilex Crenata b40 x l40 x h80",
+    "model": "crenatailex-40-40-80-normal.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1216,
+    "title": "Ilex Crenata b70 x l150 x h100",
+    "model": "crenatailex-70-150-100-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1176,
+    "title": "Ilex Crenata b70 x l150 x h120",
+    "model": "crenatailex-70-150-120-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1177,
+    "title": "Ilex Crenata b70 x l150 x h150",
+    "model": "crenatailex-70-150-150-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1217,
+    "title": "Ilex Crenata b70 x l150 x h180",
+    "model": "crenatailex-70-150-180-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 570,
+    "title": "Ilex Crenata b70 x l150 x h200",
+    "model": "crenatailex.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1178,
+    "title": "Ilex Crenata b70 x l150 x h220",
+    "model": "crenatailex-70-150-220-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1175,
+    "title": "Ilex Crenata b70 x l150 x h80",
+    "model": "crenatailex-70-150-80-normal.1.glb",
+    "dimensions": { "width": 35, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1211,
+    "title": "Italiaanse Cypres",
+    "model": "italiaansecypres-withoutvase.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1210,
+    "title": "Italiaanse Cypres (in container)",
+    "model": "italiaansecypres.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1231,
+    "title": "Jacuzzi",
+    "model": "jacuzzi.1.glb",
+    "dimensions": { "width": 150, "height": 175, "height3d": 0 }
+  },
+  {
+    "id": 215,
+    "title": "Japanse esdoorn (in bak)",
+    "model": "acerpalmatum.1.glb",
+    "dimensions": { "width": 97, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 387,
+    "title": "Kapschuur 400 x 250",
+    "model": "kapschuurcomfort.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 456,
+    "title": "Kapschuur grijs dakpan 400 x 250",
+    "model": "kapschuurcomfort-clay-grey.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 452,
+    "title": "Kapschuur grijs dakshingle 400 x 250",
+    "model": "kapschuurcomfort-slates-grey.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 453,
+    "title": "Kapschuur  groen dakshingle 400 x 250",
+    "model": "kapschuurcomfort-slates-green.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 457,
+    "title": "Kapschuur oranje dakpan 400 x 250",
+    "model": "kapschuurcomfort-clay-orange.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 455,
+    "title": "Kapschuur rood dakpan 400 x 250",
+    "model": "kapschuurcomfort-clay-red.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 449,
+    "title": "Kapschuur rood dakshingle 400 x 250",
+    "model": "kapschuurcomfort-tiles-red.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 454,
+    "title": "Kapschuur zwart dakpan 400 x 250",
+    "model": "kapschuurcomfort-clay-black.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 451,
+    "title": "Kapschuur zwart dakshingle 400 x 250",
+    "model": "kapschuurcomfort-slates-black.1.glb",
+    "dimensions": { "width": 200, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 60,
+    "title": "Kas",
+    "model": "kas.1.glb",
+    "dimensions": { "width": 128, "height": 144, "height3d": 0 }
+  },
+  {
+    "id": 555,
+    "title": "Kas schets",
+    "model": "kas.1.glb",
+    "dimensions": { "width": 128, "height": 144, "height3d": 0 }
+  },
+  {
+    "id": 44,
+    "title": "Kastanje",
+    "model": "alleenstaandeboom.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 0 }
+  },
+  {
+    "id": 465,
+    "title": "Kastanjebalk ∅25 x b150 x h150",
+    "model": "kastanjepaal25.1.glb",
+    "dimensions": { "width": 75, "height": 13, "height3d": 0 }
+  },
+  {
+    "id": 1064,
+    "title": "Kastanjebalk ∅25 x b300 x h200",
+    "model": "kastanjepaal25-doublesize.1.glb",
+    "dimensions": { "width": 150, "height": 13, "height3d": 0 }
+  },
+  {
+    "id": 1397,
+    "title": "Kastanjepaal ∅25 x h150",
+    "model": "kastanjepaal25-150.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 60 }
+  },
+  {
+    "id": 466,
+    "title": "Kastanjepaal ∅25 x h150",
+    "model": "kastanjepaal25.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 110 }
+  },
+  {
+    "id": 1392,
+    "title": "Kastanjepaal ∅25 x h180",
+    "model": "kastanjepaal25-180.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 90 }
+  },
+  {
+    "id": 1395,
+    "title": "Kastanjepaal ∅25 x h200",
+    "model": "kastanjepaal25-200.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 0 }
+  },
+  {
+    "id": 1063,
+    "title": "Kastanjepaal ∅25 x h250",
+    "model": "kastanjepaal25-250.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 125 }
+  },
+  {
+    "id": 1396,
+    "title": "Kastanjepaal ∅25 x h300",
+    "model": "kastanjepaal25-300.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 0 }
+  },
+  {
+    "id": 1445,
+    "title": "Kastanjepaal ∅25 x h350",
+    "model": "kastanjepaal25-350.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 175 }
+  },
+  {
+    "id": 1393,
+    "title": "Kastanjepaal ∅25 x h50",
+    "model": "kastanjepaal25-50.1.glb",
+    "dimensions": { "width": 12, "height": 13, "height3d": 0 }
+  },
+  {
+    "id": 464,
+    "title": "Kastanjepaal ∅8 x h120",
+    "model": "kastanjepaal8.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1390,
+    "title": "Kastanjepaal ∅8 x h120",
+    "model": "kastanjepaal8-120.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1385,
+    "title": "Kastanjepaal ∅8 x h180",
+    "model": "kastanjepaal8-180.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1387,
+    "title": "Kastanjepaal ∅8 x h200",
+    "model": "kastanjepaal8-200.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1065,
+    "title": "Kastanjepaal ∅8 x h200",
+    "model": "kastanjepaal8-doublesize.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1386,
+    "title": "Kastanjepaal ∅8 x h250",
+    "model": "kastanjepaal8-250.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1388,
+    "title": "Kastanjepaal ∅8 x h300",
+    "model": "kastanjepaal8-300.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1389,
+    "title": "Kastanjepaal ∅8 x h350",
+    "model": "kastanjepaal8-350.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 1384,
+    "title": "Kastanjepaal ∅8 x h50",
+    "model": "kastanjepaal8-50.1.glb",
+    "dimensions": { "width": 8, "height": 7, "height3d": 110 }
+  },
+  {
+    "id": 517,
+    "title": "Kastanje schets",
+    "model": "alleenstaandeboom.1.glb",
+    "dimensions": { "width": 130, "height": 123, "height3d": 0 }
+  },
+  {
+    "id": 577,
+    "title": "Kat",
+    "model": "kat.1.glb",
+    "dimensions": { "width": 6, "height": 18, "height3d": 0 }
+  },
+  {
+    "id": 1213,
+    "title": "Kattekruid",
+    "model": "kattenkruid.1.glb",
+    "dimensions": { "width": 19, "height": 17, "height3d": 0 }
+  },
+  {
+    "id": 400,
+    "title": "Kei",
+    "model": "keien.1.glb",
+    "dimensions": { "width": 15, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 788,
+    "title": "Kers",
+    "model": "alleenstaandeboom-bruin.1.glb",
+    "dimensions": { "width": 261, "height": 246, "height3d": 0 }
+  },
+  {
+    "id": 787,
+    "title": "Kers",
+    "model": "alleenstaandeboom.1.glb",
+    "dimensions": { "width": 261, "height": 246, "height3d": 0 }
+  },
+  {
+    "id": 503,
+    "title": "Kers schets",
+    "model": "kers.1.glb",
+    "dimensions": { "width": 130, "height": 118, "height3d": 0 }
+  },
+  {
+    "id": 67,
+    "title": "Kind",
+    "model": "mensen-2.1.glb",
+    "dimensions": { "width": 19, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 462,
+    "title": "Kip",
+    "model": "kip.1.glb",
+    "dimensions": { "width": 6, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 90,
+    "title": "Kliko",
+    "model": "kliko-groen.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 80 }
+  },
+  {
+    "id": 1380,
+    "title": "Kliko blauw",
+    "model": "kliko-blauw.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 80 }
+  },
+  {
+    "id": 1382,
+    "title": "Kliko bruin",
+    "model": "kliko-bruin.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 80 }
+  },
+  {
+    "id": 764,
+    "title": "Kliko geel",
+    "model": "kliko-geel.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 1381,
+    "title": "Kliko oranje",
+    "model": "kliko-oranje.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 80 }
+  },
+  {
+    "id": 1383,
+    "title": "Kliko rood",
+    "model": "kliko-rood.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 80 }
+  },
+  {
+    "id": 763,
+    "title": "Kliko zwart",
+    "model": "kliko-zwart.1.glb",
+    "dimensions": { "width": 33, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 476,
+    "title": "Klimplant",
+    "model": "klimplant.1.glb",
+    "dimensions": { "width": 50, "height": 48, "height3d": 0 }
+  },
+  {
+    "id": 657,
+    "title": "Klimplant bruin",
+    "model": "klimplant-bruin.1.glb",
+    "dimensions": { "width": 50, "height": 48, "height3d": 0 }
+  },
+  {
+    "id": 658,
+    "title": "Klimplant paars",
+    "model": "klimplant-paars.1.glb",
+    "dimensions": { "width": 50, "height": 48, "height3d": 0 }
+  },
+  {
+    "id": 967,
+    "title": "Knotwilg",
+    "model": "knotwilg.1.glb",
+    "dimensions": { "width": 60, "height": 49, "height3d": 0 }
+  },
+  {
+    "id": 447,
+    "title": "Konijn",
+    "model": "konijn.1.glb",
+    "dimensions": { "width": 8, "height": 14, "height3d": 0 }
+  },
+  {
+    "id": 1240,
+    "title": "Koninginnekruid",
+    "model": "koninginnekruid.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1265,
+    "title": "Krenteboompje h150",
+    "model": "krentenboompje-150.1.glb",
+    "dimensions": { "width": 40, "height": 38, "height3d": 0 }
+  },
+  {
+    "id": 1268,
+    "title": "Krenteboompje h300",
+    "model": "krentenboompje-300.1.glb",
+    "dimensions": { "width": 62, "height": 68, "height3d": 0 }
+  },
+  {
+    "id": 1269,
+    "title": "Krenteboompje h600",
+    "model": "krentenboompje-600.1.glb",
+    "dimensions": { "width": 142, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1270,
+    "title": "Krenteboompje h900",
+    "model": "krentenboompje-900.1.glb",
+    "dimensions": { "width": 142, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 963,
+    "title": "Lampenpoetsergras",
+    "model": "lampepoetsersgras.1.glb",
+    "dimensions": { "width": 90, "height": 92, "height3d": 0 }
+  },
+  {
+    "id": 61,
+    "title": "Landhek",
+    "model": "landhek.1.glb",
+    "dimensions": { "width": 139, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 588,
+    "title": "Lavendel",
+    "model": "lavendel.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 420,
+    "title": "Lavendel",
+    "model": "lavendel-los-paars.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 982,
+    "title": "Lavendel bruin",
+    "model": "lavendel-los-bruin.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 659,
+    "title": "Lavendel bruin",
+    "model": "lavendel-bruin.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 983,
+    "title": "Lavendel groen",
+    "model": "lavendel-los-groen.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 660,
+    "title": "Lavendel groen",
+    "model": "lavendel-groen.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 984,
+    "title": "Lavendel lichtblauw",
+    "model": "lavendel-los-lichtblauw.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 661,
+    "title": "Lavendel lichtblauw",
+    "model": "lavendel-lichtblauw.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 985,
+    "title": "Lavendel paars",
+    "model": "lavendel-los-paars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 987,
+    "title": "Lavendel rood",
+    "model": "lavendel-los-rood.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 662,
+    "title": "Lavendel rood",
+    "model": "lavendel-rood.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 473,
+    "title": "Leifruit",
+    "model": "leifruit.1.glb",
+    "dimensions": { "width": 13, "height": 184, "height3d": 0 }
+  },
+  {
+    "id": 663,
+    "title": "Leifruit bruin",
+    "model": "leifruit-bruin.1.glb",
+    "dimensions": { "width": 13, "height": 184, "height3d": 0 }
+  },
+  {
+    "id": 1369,
+    "title": "Leilinde 4t h270",
+    "model": "leilinde-normal-270.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1370,
+    "title": "Leilinde 4t h300",
+    "model": "leilinde-normal-300.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1375,
+    "title": "Leilinde 4t h340",
+    "model": "leilinde-normal-340.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1368,
+    "title": "Leilinde 4t h370",
+    "model": "leilinde-normal-370.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 63,
+    "title": "Leilinde 5t groot",
+    "model": "leilinde.1.glb",
+    "dimensions": { "width": 42, "height": 220, "height3d": 0 }
+  },
+  {
+    "id": 1374,
+    "title": "Leilinde 5t h250",
+    "model": "leilinde-normal1-250.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1376,
+    "title": "Leilinde bruin 4t h270",
+    "model": "leilinde-bruin-270.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1377,
+    "title": "Leilinde bruin 4t h300",
+    "model": "leilinde-bruin-300.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1378,
+    "title": "Leilinde bruin 4t h340",
+    "model": "leilinde-bruin-340.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1379,
+    "title": "Leilinde bruin 4t h370",
+    "model": "leilinde-bruin-370.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 501,
+    "title": "Leilinde bruin 5t groot",
+    "model": "leilinde-bruin.1.glb",
+    "dimensions": { "width": 42, "height": 220, "height3d": 0 }
+  },
+  {
+    "id": 1372,
+    "title": "Leilinde bruin 5t h250 ",
+    "model": "leilinde-bruin-250.1.glb",
+    "dimensions": { "width": 20, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 968,
+    "title": "Lichtmast Alto",
+    "model": "lichtmastalto.1.glb",
+    "dimensions": { "width": 11, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 969,
+    "title": "Lichtmast Strato",
+    "model": "lichtmaststrato.1.glb",
+    "dimensions": { "width": 8, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 64,
+    "title": "Ligstoel",
+    "model": "ligstoelen.1.glb",
+    "dimensions": { "width": 87, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 768,
+    "title": "Ligstoel blauw",
+    "model": "ligstoel-blauw.1.glb",
+    "dimensions": { "width": 87, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 769,
+    "title": "Ligstoel grijs",
+    "model": "ligstoel-grijs.1.glb",
+    "dimensions": { "width": 87, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 770,
+    "title": "Ligstoel rood",
+    "model": "ligstoel-rood.1.glb",
+    "dimensions": { "width": 87, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 771,
+    "title": "Ligstoel zwart",
+    "model": "ligstoel-zwart.1.glb",
+    "dimensions": { "width": 87, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 201,
+    "title": "Lijsterbes",
+    "model": "lijsterbes.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 664,
+    "title": "Lijsterbes bruinpaars",
+    "model": "lijsterbes-bruinpaars.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 665,
+    "title": "Lijsterbes geelgroen",
+    "model": "lijsterbes-geelgroen.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 666,
+    "title": "Lijsterbes groenblauw",
+    "model": "lijsterbes-groenblauw.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 500,
+    "title": "Lijsterbes schets",
+    "model": "lijsterbes.1.glb",
+    "dimensions": { "width": 181, "height": 182, "height3d": 0 }
+  },
+  {
+    "id": 1671,
+    "title": "Liriope muscari blauw",
+    "model": "liriope-muscari-blauw-11314fda70af103b70a7.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1673,
+    "title": "Liriope muscari paars",
+    "model": "liriope-muscari-paars-704879ffed6b7617ce18.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1672,
+    "title": "Liriope muscari wit",
+    "model": "liriope-muscari-wit-e5e1d97be925de477c85.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 65,
+    "title": "Loungeset",
+    "model": "loungeset-grijs.1.glb",
+    "dimensions": { "width": 141, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 835,
+    "title": "Loungeset grijs",
+    "model": "loungeset-donkergrijs.1.glb",
+    "dimensions": { "width": 141, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 836,
+    "title": "Loungeset groen",
+    "model": "loungeset-groen.1.glb",
+    "dimensions": { "width": 141, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 837,
+    "title": "Loungeset rood",
+    "model": "loungeset-rood.1.glb",
+    "dimensions": { "width": 141, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 838,
+    "title": "Loungeset zwart",
+    "model": "loungeset-zwart.1.glb",
+    "dimensions": { "width": 141, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 1407,
+    "title": "Magnolia kobus oisterwijk 100",
+    "model": "magnoliakobus-100.1.glb",
+    "dimensions": { "width": 50, "height": 42, "height3d": 0 }
+  },
+  {
+    "id": 1408,
+    "title": "Magnolia kobus oisterwijk 150",
+    "model": "magnoliakobus-150.1.glb",
+    "dimensions": { "width": 75, "height": 77, "height3d": 0 }
+  },
+  {
+    "id": 1410,
+    "title": "Magnolia kobus oisterwijk 200",
+    "model": "magnoliakobus-200.1.glb",
+    "dimensions": { "width": 100, "height": 88, "height3d": 0 }
+  },
+  {
+    "id": 1409,
+    "title": "Magnolia kobus oisterwijk 250",
+    "model": "magnoliakobus-250.1.glb",
+    "dimensions": { "width": 125, "height": 132, "height3d": 0 }
+  },
+  {
+    "id": 1403,
+    "title": "Magnolia soulangenea h100",
+    "model": "magnoliasoulangenea-100.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1404,
+    "title": "Magnolia soulangenea h150",
+    "model": "magnoliasoulangenea-150.1.glb",
+    "dimensions": { "width": 65, "height": 65, "height3d": 0 }
+  },
+  {
+    "id": 1405,
+    "title": "Magnolia soulangenea h200",
+    "model": "magnoliasoulangenea-200.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1406,
+    "title": "Magnolia soulangenea h250",
+    "model": "magnoliasoulangenea-250.1.glb",
+    "dimensions": { "width": 90, "height": 90, "height3d": 0 }
+  },
+  {
+    "id": 714,
+    "title": "Man blauw",
+    "model": "man-blauw.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 715,
+    "title": "Man oranje",
+    "model": "man-oranje.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 717,
+    "title": "Man rood",
+    "model": "man-rood.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 716,
+    "title": "Man zwart",
+    "model": "man-zwart.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 582,
+    "title": "Meisje",
+    "model": "meisje.1.glb",
+    "dimensions": { "width": 28, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 109,
+    "title": "Mens",
+    "model": "mensen-1.1.glb",
+    "dimensions": { "width": 23, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 571,
+    "title": "Mini",
+    "model": "mini.1.glb",
+    "dimensions": { "width": 86, "height": 199, "height3d": 0 }
+  },
+  {
+    "id": 964,
+    "title": "Miscanthus sinensis 'Gracillimus'",
+    "model": "gracillimus.1.glb",
+    "dimensions": { "width": 80, "height": 83, "height3d": 0 }
+  },
+  {
+    "id": 675,
+    "title": "Olijfboom",
+    "model": "olijfboom.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 175,
+    "title": "Paal ◼︎",
+    "model": "cube",
+    "dimensions": { "width": 13, "height": 13, "height3d": 110 }
+  },
+  {
+    "id": 584,
+    "title": "Paardentrailer",
+    "model": "paardentrailer.1.glb",
+    "dimensions": { "width": 110, "height": 205, "height3d": 0 }
+  },
+  {
+    "id": 677,
+    "title": "Palm bruin (in bak)",
+    "model": "palm-bruin.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 678,
+    "title": "Palm geelbruin (in bak)",
+    "model": "palm-geelbruin.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 679,
+    "title": "Palm geelgroen (in bak)",
+    "model": "palm-geelgroen.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 234,
+    "title": "Palm (in bak)",
+    "model": "palm.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 499,
+    "title": "Palm (in bak) schets",
+    "model": "palm.1.glb",
+    "dimensions": { "width": 77, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 1350,
+    "title": "Palm sago",
+    "model": "sagopalm-withoutvase.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1353,
+    "title": "Palmtrachycarpus",
+    "model": "palmtrachycarpus.1.glb",
+    "dimensions": { "width": 220, "height": 220, "height3d": 0 }
+  },
+  {
+    "id": 68,
+    "title": "Parasol",
+    "model": "parasol-rood.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 718,
+    "title": "Parasol blauw",
+    "model": "parasol-blauw.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 719,
+    "title": "Parasol groen",
+    "model": "parasol-groen.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 720,
+    "title": "Parasol milkey",
+    "model": "parasol-milkey.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 721,
+    "title": "Parasol oranjegeel",
+    "model": "parasol-oranjegeel.1.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 108,
+    "title": "Pergola incl. paal",
+    "model": "pergola-small.1.glb",
+    "dimensions": { "width": 197, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1669,
+    "title": "Persicaria amplexicaulis paars",
+    "model": "persicaria-amplexicaulis-paars-355981171b263d3ee475.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1670,
+    "title": "Persicaria amplexicaulis rood",
+    "model": "persicaria-amplexicaulis-rood-a32c3c77355d4c3e7df7.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1668,
+    "title": "Persicaria amplexicaulis wit",
+    "model": "persicaria-amplexicaulis-wit-a3ccac7e54034ec5124a.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 568,
+    "title": "Photinia fra. 'Red Robin’ ",
+    "model": "photinia.1.glb",
+    "dimensions": { "width": 50, "height": 53, "height3d": 0 }
+  },
+  {
+    "id": 722,
+    "title": "Picknicktafel donkerbruin",
+    "model": "picknicktafel-donkerbruin.1.glb",
+    "dimensions": { "width": 75, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 410,
+    "title": "Picknicktafel kastanje",
+    "model": "picknicktafel.1.glb",
+    "dimensions": { "width": 75, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 723,
+    "title": "Picknicktafel zwart",
+    "model": "picknicktafel-zwart.1.glb",
+    "dimensions": { "width": 75, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1587,
+    "title": "Plantenbak Andes 100 x 100 x 100",
+    "model": "adezzplantenbakandes-100-100-100.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1590,
+    "title": "Plantenbak Andes 100 x 100 x 40",
+    "model": "adezzplantenbakandes-100-100-40.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1589,
+    "title": "Plantenbak Andes 100 x 100 x 60",
+    "model": "adezzplantenbakandes-100-100-60.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1588,
+    "title": "Plantenbak Andes 100 x 100 x 80",
+    "model": "adezzplantenbakandes-100-100-80.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1593,
+    "title": "Plantenbak Andes 120 x 120 x 40",
+    "model": "adezzplantenbakandes-120-120-40.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1592,
+    "title": "Plantenbak Andes 120 x 120 x 60",
+    "model": "adezzplantenbakandes-120-120-60.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1591,
+    "title": "Plantenbak Andes 120 x 120 x 80",
+    "model": "adezzplantenbakandes-120-120-80.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1594,
+    "title": "Plantenbak Andes 50 x 50 x 100",
+    "model": "adezzplantenbakandes-50-50-100.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1595,
+    "title": "Plantenbak Andes 50 x 50 x 50",
+    "model": "adezzplantenbakandes-50-50-50.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1596,
+    "title": "Plantenbak Atlas rond 60 x 120",
+    "model": "adezzplantenbakatlas-60-120.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1651,
+    "title": "Poef",
+    "model": "adezz-pouf-white-f7894023fa3692d314af.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1352,
+    "title": "Ponytailpalm",
+    "model": "ponytailpalm.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 461,
+    "title": "Prieel Zwaan groenshingle 400",
+    "model": "prieelzwaan.1.glb",
+    "dimensions": { "width": 200, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1347,
+    "title": "Prunus Laucerasus h150",
+    "model": "prunuslaucerasus-bush-150.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1348,
+    "title": "Prunus Laucerasus h200",
+    "model": "prunuslaucerasus-bush-200.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1349,
+    "title": "Prunus Laucerasus h250",
+    "model": "prunuslaucerasus-bush-250.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1346,
+    "title": "Prunus Laucerasus h80",
+    "model": "prunuslaucerasus-bush-80.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1235,
+    "title": "Prunus Laucerasus h=80",
+    "model": "prunuslaucerasus-80.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1399,
+    "title": "Prunus Lusitanica Angustifolia h100",
+    "model": "prunuslusitanica-100.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1400,
+    "title": "Prunus Lusitanica Angustifolia h150",
+    "model": "prunuslusitanica-150.1.glb",
+    "dimensions": { "width": 65, "height": 65, "height3d": 0 }
+  },
+  {
+    "id": 1401,
+    "title": "Prunus Lusitanica Angustifolia h200",
+    "model": "prunuslusitanica-200.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1402,
+    "title": "Prunus Lusitanica Angustifolia h250",
+    "model": "prunuslusitanica-250.1.glb",
+    "dimensions": { "width": 90, "height": 90, "height3d": 0 }
+  },
+  {
+    "id": 566,
+    "title": "Prunus lusticana angustifolia (in container)",
+    "model": "prunuslusticanaangustifolia.1.glb",
+    "dimensions": { "width": 50, "height": 55, "height3d": 0 }
+  },
+  {
+    "id": 1266,
+    "title": "Prunus Serrulata Amanogawa",
+    "model": "cornuskousa.1.glb",
+    "dimensions": { "width": 120, "height": 140, "height3d": 0 }
+  },
+  {
+    "id": 565,
+    "title": "Prunus Serrulata Amanogawa",
+    "model": "prunusserrulataamanogawa.1.glb",
+    "dimensions": { "width": 65, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 831,
+    "title": "Prunus Serrulata Amanogawa groen",
+    "model": "prunusserrulataamanogawa-groen.1.glb",
+    "dimensions": { "width": 65, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 706,
+    "title": "Prunus Serrulata Amanogawa oranje",
+    "model": "prunusserrulataamanogawa-oranje.1.glb",
+    "dimensions": { "width": 65, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 1236,
+    "title": "Prunus (tak) Laucerasus h=150",
+    "model": "prunuslaucerasus-150.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1237,
+    "title": "Prunus (tak) Laucerasus h=200",
+    "model": "prunuslaucerasus-200.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1238,
+    "title": "Prunus (tak) Laucerasus h=250",
+    "model": "prunuslaucerasus-250.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 676,
+    "title": "Pyrus salicifolia pendula ",
+    "model": "pendula.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 567,
+    "title": "Quercus Ilex blokvorm",
+    "model": "quercusilex.1.glb",
+    "dimensions": { "width": 140, "height": 142, "height3d": 0 }
+  },
+  {
+    "id": 579,
+    "title": "Raam 100 x h100",
+    "model": "raam100x100.1.glb",
+    "dimensions": { "width": 50, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 783,
+    "title": "Raam 100 x h100 bruin",
+    "model": "raam100x100-donkerbruin.1.glb",
+    "dimensions": { "width": 50, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 782,
+    "title": "Raam 100 x h100 grijs",
+    "model": "raam100x100-grijs.1.glb",
+    "dimensions": { "width": 50, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 786,
+    "title": "Raam 200 x h100 bruin",
+    "model": "raam100x200-donkerbruin.1.glb",
+    "dimensions": { "width": 100, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 580,
+    "title": "Raam 200 x h100 grijs",
+    "model": "raam100x200-grijs.1.glb",
+    "dimensions": { "width": 100, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 436,
+    "title": "Raam 40 x h72",
+    "model": "raam.1.glb",
+    "dimensions": { "width": 20, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 785,
+    "title": "Raam 40 x h72 bruin",
+    "model": "raam-donkerbruin.1.glb",
+    "dimensions": { "width": 20, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 784,
+    "title": "Raam 40 x h72 grijs",
+    "model": "raam-grijs.1.glb",
+    "dimensions": { "width": 20, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 438,
+    "title": "Raam 53 x h156",
+    "model": "raamzijlicht.1.glb",
+    "dimensions": { "width": 26, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 779,
+    "title": "Raam 53 x h156 bruin",
+    "model": "raamzijlicht-donkergrijs.1.glb",
+    "dimensions": { "width": 26, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 778,
+    "title": "Raam 53 x h156 grijs",
+    "model": "raamzijlicht-grijs.1.glb",
+    "dimensions": { "width": 26, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 578,
+    "title": "Raam 70 x h100",
+    "model": "raam100x70.1.glb",
+    "dimensions": { "width": 35, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 780,
+    "title": "Raam 70 x h100 bruin",
+    "model": "raam100x70-donkerbruin.1.glb",
+    "dimensions": { "width": 35, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 781,
+    "title": "Raam 70 x h100 grijs",
+    "model": "raam100x70-grijs.1.glb",
+    "dimensions": { "width": 35, "height": 5, "height3d": 0 }
+  },
+  {
+    "id": 105,
+    "title": "Raam (gesloten)",
+    "model": "raam-gesloten.1.glb",
+    "dimensions": { "width": 93, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 104,
+    "title": "Raam (open)",
+    "model": "raam-open.1.glb",
+    "dimensions": { "width": 93, "height": 80, "height3d": 0 }
+  },
+  {
+    "id": 206,
+    "title": "Regenton",
+    "model": "regenton-bruin.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 724,
+    "title": "Regenton blauw",
+    "model": "regenton-blauw.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 725,
+    "title": "Regenton grijs",
+    "model": "regenton-grijs.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 726,
+    "title": "Regenton groen",
+    "model": "regenton-groen.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 727,
+    "title": "Regenton rood",
+    "model": "regenton-rood.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 728,
+    "title": "Regenton zwart",
+    "model": "regenton-zwart.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 217,
+    "title": "Rhododendron",
+    "model": "rhododendron.1.glb",
+    "dimensions": { "width": 54, "height": 56, "height3d": 0 }
+  },
+  {
+    "id": 680,
+    "title": "Rhododendron blauwpaars",
+    "model": "rhododendron-blauwpaars.1.glb",
+    "dimensions": { "width": 64, "height": 66, "height3d": 0 }
+  },
+  {
+    "id": 681,
+    "title": "Rhododendron geelroze",
+    "model": "rhododendron-geelroze.1.glb",
+    "dimensions": { "width": 64, "height": 66, "height3d": 0 }
+  },
+  {
+    "id": 683,
+    "title": "Rhododendron oranje",
+    "model": "rhododendron-oranje.1.glb",
+    "dimensions": { "width": 64, "height": 66, "height3d": 0 }
+  },
+  {
+    "id": 682,
+    "title": "Rhododendron rood",
+    "model": "rhododendron-rood.1.glb",
+    "dimensions": { "width": 64, "height": 66, "height3d": 0 }
+  },
+  {
+    "id": 498,
+    "title": "Rhododendron schets",
+    "model": "rhododendron.1.glb",
+    "dimensions": { "width": 74, "height": 76, "height3d": 0 }
+  },
+  {
+    "id": 223,
+    "title": "Riet",
+    "model": "riet.1.glb",
+    "dimensions": { "width": 34, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 687,
+    "title": "Riet bruin",
+    "model": "riet-bruin.1.glb",
+    "dimensions": { "width": 34, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 688,
+    "title": "Riet geelbruin",
+    "model": "riet-geelbruin.1.glb",
+    "dimensions": { "width": 34, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 497,
+    "title": "Riet schets",
+    "model": "riet.1.glb",
+    "dimensions": { "width": 34, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 450,
+    "title": "Robotmaaier",
+    "model": "mower.1.glb",
+    "dimensions": { "width": 26, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 448,
+    "title": "Roodzwenkgras",
+    "model": "roodzwenkgras.1.glb",
+    "dimensions": { "width": 52, "height": 52, "height3d": 0 }
+  },
+  {
+    "id": 1263,
+    "title": "Rosa geel",
+    "model": "rosa-geel.1.glb",
+    "dimensions": { "width": 28, "height": 28, "height3d": 0 }
+  },
+  {
+    "id": 1264,
+    "title": "Rosa oranje",
+    "model": "rosa-oranje.1.glb",
+    "dimensions": { "width": 28, "height": 28, "height3d": 0 }
+  },
+  {
+    "id": 1261,
+    "title": "Rosa rood",
+    "model": "rosa-rood.1.glb",
+    "dimensions": { "width": 28, "height": 28, "height3d": 0 }
+  },
+  {
+    "id": 1262,
+    "title": "Rosa wit",
+    "model": "rosa-wit.1.glb",
+    "dimensions": { "width": 28, "height": 28, "height3d": 0 }
+  },
+  {
+    "id": 1539,
+    "title": "Rozenboog b=120",
+    "model": "rozenboogkleine.1.glb",
+    "dimensions": { "width": 60, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 1538,
+    "title": "Rozenboog b=180",
+    "model": "rozenbooggroot.1.glb",
+    "dimensions": { "width": 90, "height": 35, "height3d": 0 }
+  },
+  {
+    "id": 1540,
+    "title": "Rozenboog staal",
+    "model": "rozenboogpipes.1.glb",
+    "dimensions": { "width": 70, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1351,
+    "title": "Rudbeckia",
+    "model": "rutbeckia.1.glb",
+    "dimensions": { "width": 25, "height": 22, "height3d": 0 }
+  },
+  {
+    "id": 1253,
+    "title": "Sago palm (in container)",
+    "model": "sagopalm.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1260,
+    "title": "Salie",
+    "model": "salie.1.glb",
+    "dimensions": { "width": 25, "height": 22, "height3d": 0 }
+  },
+  {
+    "id": 1356,
+    "title": "Schaduwdoek driehoek limegroen b360",
+    "model": "schaduwdoekdriehoek360-limegroen.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1361,
+    "title": "Schaduwdoek driehoek terracotta b360",
+    "model": "schaduwdoekdriehoek360-terracotta.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1362,
+    "title": "Schaduwdoek driehoek zand b360",
+    "model": "schaduwdoekdriehoek360-zand.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1360,
+    "title": "Schaduwdoek driehoek zwart b360",
+    "model": "schaduwdoekdriehoek360-zwart.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1355,
+    "title": "Schaduwdoek vierkant limegroen b360",
+    "model": "schaduwdoekvierkant360-limegroen.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1358,
+    "title": "Schaduwdoek vierkant terracotta b360",
+    "model": "schaduwdoekvierkant360-terracotta.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1359,
+    "title": "Schaduwdoek vierkant zand b360",
+    "model": "schaduwdoekvierkant360-zand.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 1357,
+    "title": "Schaduwdoek vierkant zwart b360",
+    "model": "schaduwdoekvierkant360-zwart.1.glb",
+    "dimensions": { "width": 180, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 69,
+    "title": "Schommel",
+    "model": "schommel-bruin.1.glb",
+    "dimensions": { "width": 106, "height": 36, "height3d": 0 }
+  },
+  {
+    "id": 729,
+    "title": "Schommel grijs",
+    "model": "schommel-grijs.1.glb",
+    "dimensions": { "width": 106, "height": 36 }
+  },
+  {
+    "id": 730,
+    "title": "Schommel zwart",
+    "model": "schommel-zwart.1.glb",
+    "dimensions": { "width": 106, "height": 36 }
+  },
+  {
+    "id": 103,
+    "title": "Schuifpui",
+    "model": "schuifpui.1.glb",
+    "dimensions": { "width": 200, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 731,
+    "title": "Schuifpui bruin",
+    "model": "schuifpui-bruin.1.glb",
+    "dimensions": { "width": 200, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 207,
+    "title": "Schuttingdeur",
+    "model": "schuttingdeur.1.glb",
+    "dimensions": { "width": 54, "height": 12, "height3d": 0 }
+  },
+  {
+    "id": 91,
+    "title": "Sedan",
+    "model": "sedan.1.glb",
+    "dimensions": { "width": 76, "height": 181, "height3d": 0 }
+  },
+  {
+    "id": 732,
+    "title": "Sedan blauw",
+    "model": "sedan-blauw.1.glb",
+    "dimensions": { "width": 76, "height": 181, "height3d": 0 }
+  },
+  {
+    "id": 733,
+    "title": "Sedan grijs",
+    "model": "sedan-grijs.1.glb",
+    "dimensions": { "width": 76, "height": 181, "height3d": 0 }
+  },
+  {
+    "id": 735,
+    "title": "Sedan lichtblauw",
+    "model": "sedan-lichtblauw.1.glb",
+    "dimensions": { "width": 76, "height": 181, "height3d": 0 }
+  },
+  {
+    "id": 734,
+    "title": "Sedan zwart",
+    "model": "sedan-zwart.1.glb",
+    "dimensions": { "width": 76, "height": 181, "height3d": 0 }
+  },
+  {
+    "id": 1031,
+    "title": "Sedum blauw",
+    "model": "sedum-blue.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1030,
+    "title": "Sedum pink",
+    "model": "sedum-pink.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1032,
+    "title": "Sedum rose",
+    "model": "sedum-rose.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 224,
+    "title": "Siergras",
+    "model": "siergras.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 689,
+    "title": "Siergras bruin",
+    "model": "siergras-bruin.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 690,
+    "title": "Siergras groengeel",
+    "model": "siergras-groengeel.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 496,
+    "title": "Siergras schets",
+    "model": "siergras.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 218,
+    "title": "Skimmia",
+    "model": "skimmia-rood.1.glb",
+    "dimensions": { "width": 48, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 691,
+    "title": "Skimmia bruinpaars",
+    "model": "skimmia-bruinpaars.1.glb",
+    "dimensions": { "width": 48, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 692,
+    "title": "Skimmia bruinrood",
+    "model": "skimmia-bruinrood.1.glb",
+    "dimensions": { "width": 48, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 693,
+    "title": "Skimmia geel",
+    "model": "skimmia-geel.1.glb",
+    "dimensions": { "width": 48, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 694,
+    "title": "Skimmia paars",
+    "model": "skimmia-paars.1.glb",
+    "dimensions": { "width": 48, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 495,
+    "title": "Skimmia schets",
+    "model": "skimmia.1.glb",
+    "dimensions": { "width": 60, "height": 58, "height3d": 0 }
+  },
+  {
+    "id": 114,
+    "title": "Slanghouder",
+    "model": "slangenbox.1.glb",
+    "dimensions": { "width": 25, "height": 33, "height3d": 0 }
+  },
+  {
+    "id": 113,
+    "title": "Slangwagen",
+    "model": "slangwagen.1.glb",
+    "dimensions": { "width": 42, "height": 37, "height3d": 0 }
+  },
+  {
+    "id": 1650,
+    "title": "Sofa",
+    "model": "adezz-sofa-white-4883d854ab22dceea8ee.glb",
+    "dimensions": { "width": 47, "height": 82, "height3d": 0 }
+  },
+  {
+    "id": 1681,
+    "title": "Spar-boom h1000",
+    "model": "spar-trunk-1000h-47ef0ec237b1ba133716.glb",
+    "dimensions": { "width": 280, "height": 280, "height3d": 0 }
+  },
+  {
+    "id": 1682,
+    "title": "Spar-boom h1250",
+    "model": "spar-trunk-1250h-bc34abeb6855c3ecdca0.glb",
+    "dimensions": { "width": 320, "height": 320, "height3d": 0 }
+  },
+  {
+    "id": 1683,
+    "title": "Spar-boom h1500",
+    "model": "spar-trunk-1500h-7b6cb1ac0c7db6f8f1dd.glb",
+    "dimensions": { "width": 380, "height": 380, "height3d": 0 }
+  },
+  {
+    "id": 1680,
+    "title": "Spar-boom h500",
+    "model": "spar-trunk-500h-4c5e44ed0f4a262836d5.glb",
+    "dimensions": { "width": 160, "height": 160, "height3d": 0 }
+  },
+  {
+    "id": 1674,
+    "title": "Spar-boom h750",
+    "model": "spar-trunk-750h-f494b19f75a3341c41a5.glb",
+    "dimensions": { "width": 230, "height": 230, "height3d": 0 }
+  },
+  {
+    "id": 1675,
+    "title": "Spar h100",
+    "model": "spar-100h-d77f6ca768aeb9a3980d.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1676,
+    "title": "Spar h200",
+    "model": "spar-200h-50622e65bc65bc65ba16.glb",
+    "dimensions": { "width": 88, "height": 88, "height3d": 0 }
+  },
+  {
+    "id": 1677,
+    "title": "Spar h300",
+    "model": "spar-300h-7e0141174b452105976e.glb",
+    "dimensions": { "width": 110, "height": 110, "height3d": 0 }
+  },
+  {
+    "id": 1678,
+    "title": "Spar h400",
+    "model": "spar-400h-b33b2b52025f4cad860b.glb",
+    "dimensions": { "width": 130, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 1679,
+    "title": "Spar h500",
+    "model": "spar-500h-1805992de12654397e7d.glb",
+    "dimensions": { "width": 150, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 746,
+    "title": "Speelhuis grijs",
+    "model": "speelhuismetglijbaan-grijs.1.glb",
+    "dimensions": { "width": 100, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 745,
+    "title": "Speelhuis grijsgroen",
+    "model": "speelhuismetglijbaan-grijsgroen.1.glb",
+    "dimensions": { "width": 100, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 208,
+    "title": "Speelhuis met glijbaan",
+    "model": "speelhuismetglijbaan-blankgroen.1.glb",
+    "dimensions": { "width": 100, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 219,
+    "title": "Spierstruik",
+    "model": "spierstruik-wit.1.glb",
+    "dimensions": { "width": 94, "height": 97, "height3d": 0 }
+  },
+  {
+    "id": 695,
+    "title": "Spierstruik blauw",
+    "model": "spierstruik-blauw.1.glb",
+    "dimensions": { "width": 94, "height": 97, "height3d": 0 }
+  },
+  {
+    "id": 696,
+    "title": "Spierstruik groenbruin",
+    "model": "spierstruik-groenbruin.1.glb",
+    "dimensions": { "width": 94, "height": 97, "height3d": 0 }
+  },
+  {
+    "id": 697,
+    "title": "Spierstruik rood",
+    "model": "spierstruik-rood.1.glb",
+    "dimensions": { "width": 94, "height": 97, "height3d": 0 }
+  },
+  {
+    "id": 698,
+    "title": "Spierstruik roze",
+    "model": "spierstruik-roze.1.glb",
+    "dimensions": { "width": 94, "height": 97, "height3d": 0 }
+  },
+  {
+    "id": 494,
+    "title": "Spierstruik schets",
+    "model": "spierstruik.1.glb",
+    "dimensions": { "width": 74, "height": 77, "height3d": 0 }
+  },
+  {
+    "id": 77,
+    "title": "Sproeier",
+    "model": "sproeier.1.glb",
+    "dimensions": { "width": 19, "height": 54, "height3d": 0 }
+  },
+  {
+    "id": 95,
+    "title": "Stationwagon",
+    "model": "stationwagon-blauw.1.glb",
+    "dimensions": { "width": 84, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 736,
+    "title": "Stationwagon grijs",
+    "model": "stationwagen-grijs.1.glb",
+    "dimensions": { "width": 84, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 793,
+    "title": "Stationwagon lichtblauw",
+    "model": "stationwagen-lichtblauw.1.glb",
+    "dimensions": { "width": 84, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 795,
+    "title": "Stationwagon rood",
+    "model": "stationwagen-rood.1.glb",
+    "dimensions": { "width": 84, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 794,
+    "title": "Stationwagon zwart",
+    "model": "stationwagen-zwart.1.glb",
+    "dimensions": { "width": 84, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1649,
+    "title": "Stekelnootje",
+    "model": "stekelnootje-68af220182fe9a9acf8f.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 414,
+    "title": "Stoel",
+    "model": "stoel.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1656,
+    "title": "Stoel grijs",
+    "model": "stoel-toss016-grey-26accfaf3b0312454bd6.glb",
+    "dimensions": { "width": 27, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1658,
+    "title": "Stoel taupe",
+    "model": "stoel-toss016-taupe-ca26c238faa84755d243.glb",
+    "dimensions": { "width": 27, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1655,
+    "title": "Stoel wit",
+    "model": "stoel-toss016-white-772aa8330e1db8038443.glb",
+    "dimensions": { "width": 27, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 1657,
+    "title": "Stoel zwart",
+    "model": "stoel-toss016-black-a3b4ce1c1a63553367c1.glb",
+    "dimensions": { "width": 27, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 709,
+    "title": "Struik bruin",
+    "model": "struik-bruin.1.glb",
+    "dimensions": { "width": 98, "height": 95, "height3d": 0 }
+  },
+  {
+    "id": 708,
+    "title": "Struik bruingeel",
+    "model": "struik-bruingeel.1.glb",
+    "dimensions": { "width": 98, "height": 95, "height3d": 0 }
+  },
+  {
+    "id": 711,
+    "title": "Struik paars",
+    "model": "struik-paars.1.glb",
+    "dimensions": { "width": 98, "height": 95, "height3d": 0 }
+  },
+  {
+    "id": 572,
+    "title": "SUV elektrisch",
+    "model": "suvelektrisch.1.glb",
+    "dimensions": { "width": 80, "height": 180, "height3d": 0 }
+  },
+  {
+    "id": 443,
+    "title": "Tafel",
+    "model": "tafel.1.glb",
+    "dimensions": { "width": 41, "height": 90, "height3d": 0 }
+  },
+  {
+    "id": 437,
+    "title": "Tafel rond",
+    "model": "tafelrond.1.glb",
+    "dimensions": { "width": 70, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 1654,
+    "title": "Tafel wit ovaal",
+    "model": "adezz-rollo-table-oval-71fb05139668e7d2ebed.glb",
+    "dimensions": { "width": 50, "height": 130, "height3d": 0 }
+  },
+  {
+    "id": 459,
+    "title": "Tafel wit rond",
+    "model": "rondetafel-wit.1.glb",
+    "dimensions": { "width": 70, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 1653,
+    "title": "Tafel wit rond",
+    "model": "adezz-rollo-table-beeb0c732ffb4bb836c5.glb",
+    "dimensions": { "width": 70, "height": 70, "height3d": 0 }
+  },
+  {
+    "id": 1488,
+    "title": "Taxus b40 x l40 x h100",
+    "model": "taxusblok-40-40-100.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1489,
+    "title": "Taxus b40 x l40 x h120",
+    "model": "taxusblok-40-40-120.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1490,
+    "title": "Taxus b40 x l40 x h150",
+    "model": "taxusblok-40-40-150.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1491,
+    "title": "Taxus b40 x l40 x h180",
+    "model": "taxusblok-40-40-180.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1492,
+    "title": "Taxus b40 x l40 x h220",
+    "model": "taxusblok-40-40-220.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1487,
+    "title": "Taxus b40 x l40 x h80",
+    "model": "taxusblok-40-40-80.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1222,
+    "title": "Taxus b50 x l100 x h100 (in container)",
+    "model": "taxusblok-50-120-100-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1201,
+    "title": "Taxus b50 x l100 x h150 (in container)",
+    "model": "taxusblok-50-120-150-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1202,
+    "title": "Taxus b50 x l100 x h180 (in container)",
+    "model": "taxusblok-50-120-180-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1221,
+    "title": "Taxus b50 x l120 x h100",
+    "model": "taxusblok-50-120-100.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1198,
+    "title": "Taxus b50 x l120 x h120",
+    "model": "taxusblok-50-120-120.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1200,
+    "title": "Taxus b50 x l120 x h120 (in container)",
+    "model": "taxusblok-50-120-120-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1197,
+    "title": "Taxus b50 x l120 x h150",
+    "model": "taxusblok-50-120-150.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1195,
+    "title": "Taxus b50 x l120 x h180",
+    "model": "taxusblok-50-120-180.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1199,
+    "title": "Taxus b50 x l120 x h220",
+    "model": "taxusblok-50-120-220.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1196,
+    "title": "Taxus b50 x l120 x h220 (in container)",
+    "model": "taxusblok-50-120-220-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1193,
+    "title": "Taxus b50 x l120 x h80",
+    "model": "taxusblok-50-120-80.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1194,
+    "title": "Taxus b50 x l120 x h80 (in container)",
+    "model": "taxusblok-50-120-80-withvase.1.glb",
+    "dimensions": { "width": 25, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1500,
+    "title": "Taxus b80 x l80 x h100",
+    "model": "taxusblok-80-80-100.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1495,
+    "title": "Taxus b80 x l80 x h120",
+    "model": "taxusblok-80-80-120.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1496,
+    "title": "Taxus b80 x l80 x h150",
+    "model": "taxusblok-80-80-150.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1497,
+    "title": "Taxus b80 x l80 x h180",
+    "model": "taxusblok-80-80-180.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1498,
+    "title": "Taxus b80 x l80 x h220",
+    "model": "taxusblok-80-80-220.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1499,
+    "title": "Taxus b80 x l80 x h250",
+    "model": "taxusblok-80-80-250.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1493,
+    "title": "Taxus b80 x l80 x h80",
+    "model": "taxusblok-80-80-80.1.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1638,
+    "title": "Toscaans jasmijn h=100",
+    "model": "toscaanse-jasmijn-100h-00d308ce752c60b96279.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1639,
+    "title": "Toscaans jasmijn h=150",
+    "model": "toscaanse-jasmijn-150h-febf2c1dd806ed8d0a6b.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1640,
+    "title": "Toscaans jasmijn h=200",
+    "model": "toscaanse-jasmijn-200h-67fdaee8130a5abeadbb.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1641,
+    "title": "Toscaans jasmijn h=250",
+    "model": "toscaanse-jasmijn-250h-b72e3e2e44c6581c5f69.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1642,
+    "title": "Toscaans jasmijn h=300",
+    "model": "toscaanse-jasmijn-300h-5baffc83d7b2674e81bd.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 1637,
+    "title": "Toscaans jasmijn h=50",
+    "model": "toscaanse-jasmijn-50h-161e3af7c775e32b7061.glb",
+    "dimensions": { "width": 40, "height": 40, "height3d": 0 }
+  },
+  {
+    "id": 71,
+    "title": "Trampoline",
+    "model": "trampoline-blauw.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 440,
+    "title": "Trampoline 244 x 427",
+    "model": "trampolinevierkant-groen.1.glb",
+    "dimensions": { "width": 122, "height": 213, "height3d": 0 }
+  },
+  {
+    "id": 759,
+    "title": "Trampoline blauw",
+    "model": "trampolinevierkant-blauw.1.glb",
+    "dimensions": { "width": 122, "height": 213, "height3d": 0 }
+  },
+  {
+    "id": 760,
+    "title": "Trampoline geel",
+    "model": "trampolinevierkant-geel.1.glb",
+    "dimensions": { "width": 122, "height": 213, "height3d": 0 }
+  },
+  {
+    "id": 740,
+    "title": "Trampoline geel",
+    "model": "trampoline-geel.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 741,
+    "title": "Trampoline lichtblauw",
+    "model": "trampoline-lichtblauw.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 742,
+    "title": "Trampoline oranje",
+    "model": "trampoline-oranje.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 739,
+    "title": "Trampoline paars",
+    "model": "trampoline-paars.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 743,
+    "title": "Trampoline rood",
+    "model": "trampoline-rood.1.glb",
+    "dimensions": { "width": 94, "height": 94, "height3d": 0 }
+  },
+  {
+    "id": 761,
+    "title": "Trampoline rood ",
+    "model": "trampolinevierkant-rood.1.glb",
+    "dimensions": { "width": 122, "height": 213, "height3d": 0 }
+  },
+  {
+    "id": 411,
+    "title": "Tronco boomstam",
+    "model": "troncoboomstam.1.glb",
+    "dimensions": { "width": 15, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 53,
+    "title": "Tuindeuren",
+    "model": "tuindeuren-004.1.glb",
+    "dimensions": { "width": 160, "height": 28, "height3d": 0 }
+  },
+  {
+    "id": 70,
+    "title": "Tuinset",
+    "model": "gardenset.1.glb",
+    "dimensions": { "width": 100, "height": 113, "height3d": 0 }
+  },
+  {
+    "id": 1000,
+    "title": "Tulp",
+    "model": "tulpen-los-klein-blauwgroen.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 492,
+    "title": "Tulp",
+    "model": "tulpen-tall.1.glb",
+    "dimensions": { "width": 25, "height": 21, "height3d": 0 }
+  },
+  {
+    "id": 999,
+    "title": "Tulp blauwpaars",
+    "model": "tulpen-los-klein-blauwpaars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 671,
+    "title": "Tulpen blauwgroen m2",
+    "model": "tulpen-blauwgroen.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 672,
+    "title": "Tulpen blauwpaars m2",
+    "model": "tulpen-blauwpaars.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 674,
+    "title": "Tulpen geelrood m2",
+    "model": "tulpen-roodgeel.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 673,
+    "title": "Tulpen roodpaars m2",
+    "model": "tulpen-roodpaars.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 1001,
+    "title": "Tulp rood",
+    "model": "tulpen-los-klein-roodpaars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 1002,
+    "title": "Tulp roodgeel",
+    "model": "tulpen-los-klein-roodgeel.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 1272,
+    "title": "U-element grijs b30 x l30 x h40 ",
+    "model": "uelement-30-30-40-grijs.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1273,
+    "title": "U-element grijs b40 x l40 x h50 ",
+    "model": "uelement-40-40-50-grijs.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1271,
+    "title": "U-element zwart b30 x l30 x h40",
+    "model": "uelement-30-30-40-zwart.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 1274,
+    "title": "U-element zwart b40 x l40 x h50",
+    "model": "uelement-40-40-50-zwart.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1604,
+    "title": "Veranda Bosco 406 x 250",
+    "model": "terrasoverkappingbosco-406-250.1.glb",
+    "dimensions": { "width": 203, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1609,
+    "title": "Veranda Bosco 406 x 300",
+    "model": "terrasoverkappingbosco-406-300.1.glb",
+    "dimensions": { "width": 203, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 1610,
+    "title": "Veranda Bosco 406 x 350",
+    "model": "terrasoverkappingbosco-406-350.1.glb",
+    "dimensions": { "width": 203, "height": 175, "height3d": 0 }
+  },
+  {
+    "id": 1611,
+    "title": "Veranda Bosco 406 x 400",
+    "model": "terrasoverkappingbosco-406-400.1.glb",
+    "dimensions": { "width": 203, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1612,
+    "title": "Veranda Bosco 506 x 250",
+    "model": "terrasoverkappingbosco-506-250.1.glb",
+    "dimensions": { "width": 253, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1613,
+    "title": "Veranda Bosco 506 x 300",
+    "model": "terrasoverkappingbosco-506-300.1.glb",
+    "dimensions": { "width": 253, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 1614,
+    "title": "Veranda Bosco 506 x 350",
+    "model": "terrasoverkappingbosco-506-350.1.glb",
+    "dimensions": { "width": 253, "height": 175, "height3d": 0 }
+  },
+  {
+    "id": 1615,
+    "title": "Veranda Bosco 506 x 400",
+    "model": "terrasoverkappingbosco-506-400.1.glb",
+    "dimensions": { "width": 253, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1616,
+    "title": "Veranda Bosco 606 x 250",
+    "model": "terrasoverkappingbosco-606-250.1.glb",
+    "dimensions": { "width": 303, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1617,
+    "title": "Veranda Bosco 606 x 300",
+    "model": "terrasoverkappingbosco-606-300.1.glb",
+    "dimensions": { "width": 303, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 1618,
+    "title": "Veranda Bosco 606 x 350",
+    "model": "terrasoverkappingbosco-606-350.1.glb",
+    "dimensions": { "width": 303, "height": 175, "height3d": 0 }
+  },
+  {
+    "id": 1619,
+    "title": "Veranda Bosco 606 x 400",
+    "model": "terrasoverkappingbosco-606-400.1.glb",
+    "dimensions": { "width": 303, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 1620,
+    "title": "Veranda Bosco 706 x 250",
+    "model": "terrasoverkappingbosco-706-250.1.glb",
+    "dimensions": { "width": 353, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1621,
+    "title": "Veranda Bosco 706 x 300",
+    "model": "terrasoverkappingbosco-706-300.1.glb",
+    "dimensions": { "width": 353, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 1622,
+    "title": "Veranda Bosco 706 x 350",
+    "model": "terrasoverkappingbosco-706-350.1.glb",
+    "dimensions": { "width": 353, "height": 175, "height3d": 0 }
+  },
+  {
+    "id": 1623,
+    "title": "Veranda Bosco 706 x 400",
+    "model": "terrasoverkappingbosco-706-400.1.glb",
+    "dimensions": { "width": 353, "height": 200, "height3d": 0 }
+  },
+  {
+    "id": 478,
+    "title": "Veranda glas 500 x 250",
+    "model": "topline.1.glb",
+    "dimensions": { "width": 250, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 563,
+    "title": "Veranda glas-dicht 400 x 300",
+    "model": "glazenschuifwand.1.glb",
+    "dimensions": { "width": 200, "height": 150, "height3d": 0 }
+  },
+  {
+    "id": 1029,
+    "title": "Verbena",
+    "model": "verbena.1.glb",
+    "dimensions": { "width": 30, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1605,
+    "title": "Verdeelbox",
+    "model": "verdeelbox.1.glb",
+    "dimensions": { "width": 24, "height": 20, "height3d": 100 }
+  },
+  {
+    "id": 220,
+    "title": "Viburnum",
+    "model": "viburnum.1.glb",
+    "dimensions": { "width": 90, "height": 80, "height3d": 0 }
+  },
+  {
+    "id": 699,
+    "title": "Viburnum bruin",
+    "model": "viburnum-bruin.1.glb",
+    "dimensions": { "width": 90, "height": 80, "height3d": 0 }
+  },
+  {
+    "id": 700,
+    "title": "Viburnum geelbruin",
+    "model": "viburnum-geelbruin.1.glb",
+    "dimensions": { "width": 90, "height": 80, "height3d": 0 }
+  },
+  {
+    "id": 701,
+    "title": "Viburnum paars",
+    "model": "viburnum-paars.1.glb",
+    "dimensions": { "width": 90, "height": 80, "height3d": 0 }
+  },
+  {
+    "id": 491,
+    "title": "Viburnum schets",
+    "model": "viburnum.1.glb",
+    "dimensions": { "width": 60, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1028,
+    "title": "Vijver Iris SIII",
+    "model": "iriss3.1.glb",
+    "dimensions": { "width": 65, "height": 102, "height3d": 0 }
+  },
+  {
+    "id": 1203,
+    "title": "Vijver Iris SIII filled",
+    "model": "iriss3-withwater.1.glb",
+    "dimensions": { "width": 65, "height": 102, "height3d": 0 }
+  },
+  {
+    "id": 1239,
+    "title": "Vingerhoedskruid",
+    "model": "vingerhoedskruid.1.glb",
+    "dimensions": { "width": 25, "height": 24, "height3d": 0 }
+  },
+  {
+    "id": 667,
+    "title": "Violen blauwgroen m2",
+    "model": "violen-blauwgroen.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 685,
+    "title": "Violen geelrood m2",
+    "model": "violen-geelrood.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 668,
+    "title": "Violen oranjerood m2",
+    "model": "violen-oranjerood.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 669,
+    "title": "Violen paars m2",
+    "model": "violen-paars.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 670,
+    "title": "Violen rood m2",
+    "model": "violen-rood.1.glb",
+    "dimensions": { "width": 60, "height": 60, "height3d": 0 }
+  },
+  {
+    "id": 415,
+    "title": "Viool",
+    "model": "violen-tall.1.glb",
+    "dimensions": { "width": 22, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 995,
+    "title": "Viool blauwgroen",
+    "model": "violen-los-klein-blauwgroen.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 996,
+    "title": "Viool geelrood",
+    "model": "violen-los-klein-geelrood.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 997,
+    "title": "Viool oranjerood",
+    "model": "violen-los-klein-oranjerood.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 998,
+    "title": "Viool paars",
+    "model": "violen-los-klein-paars.1.glb",
+    "dimensions": { "width": 10, "height": 10, "height3d": 0 }
+  },
+  {
+    "id": 1663,
+    "title": "Vlaggenmast h600",
+    "model": "vlaggenmast-6-meter-5b97ecbdf2909fa27539.glb",
+    "dimensions": { "width": 12, "height": 12, "height3d": 110 }
+  },
+  {
+    "id": 1664,
+    "title": "Vlaggenmast met vlag h600",
+    "model": "vlaggenmast-6-meter-vlag-5315df6f19f969911bcd.glb",
+    "dimensions": { "width": 112, "height": 8, "height3d": 110 }
+  },
+  {
+    "id": 221,
+    "title": "Vlinderstruik",
+    "model": "vlinderstruik.1.glb",
+    "dimensions": { "width": 73, "height": 73, "height3d": 0 }
+  },
+  {
+    "id": 1471,
+    "title": "Vlinderstruik 100",
+    "model": "vindelstruik-normal-100.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1473,
+    "title": "Vlinderstruik 150",
+    "model": "vindelstruik-normal-150.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1474,
+    "title": "Vlinderstruik 200",
+    "model": "vindelstruik-normal-200.1.glb",
+    "dimensions": { "width": 100, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1475,
+    "title": "Vlinderstruik 250",
+    "model": "vindelstruik-normal-250.1.glb",
+    "dimensions": { "width": 125, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1472,
+    "title": "Vlinderstruik 50",
+    "model": "vindelstruik-normal-50.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 702,
+    "title": "Vlinderstruik geelbruin",
+    "model": "vlinderstruik-geelbruin.1.glb",
+    "dimensions": { "width": 73, "height": 73, "height3d": 0 }
+  },
+  {
+    "id": 1465,
+    "title": "Vlinderstruik geelbruin 100",
+    "model": "vindelstruik-geelbruin-100.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1468,
+    "title": "Vlinderstruik geelbruin 150",
+    "model": "vindelstruik-geelbruin-150.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1469,
+    "title": "Vlinderstruik geelbruin 200",
+    "model": "vindelstruik-geelbruin-200.1.glb",
+    "dimensions": { "width": 100, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1470,
+    "title": "Vlinderstruik geelbruin 250",
+    "model": "vindelstruik-geelbruin-250.1.glb",
+    "dimensions": { "width": 125, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1467,
+    "title": "Vlinderstruik geelbruin 50",
+    "model": "vindelstruik-geelbruin-50.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 703,
+    "title": "Vlinderstruik rood",
+    "model": "vlinderstruik-rood.1.glb",
+    "dimensions": { "width": 73, "height": 73, "height3d": 0 }
+  },
+  {
+    "id": 1461,
+    "title": "Vlinderstruik rood 100",
+    "model": "vindelstruik-rood-100.1.glb",
+    "dimensions": { "width": 50, "height": 50, "height3d": 0 }
+  },
+  {
+    "id": 1462,
+    "title": "Vlinderstruik rood 150",
+    "model": "vindelstruik-rood-150.1.glb",
+    "dimensions": { "width": 75, "height": 75, "height3d": 0 }
+  },
+  {
+    "id": 1463,
+    "title": "Vlinderstruik rood 200",
+    "model": "vindelstruik-rood-200.1.glb",
+    "dimensions": { "width": 100, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1464,
+    "title": "Vlinderstruik rood 250",
+    "model": "vindelstruik-rood-250.1.glb",
+    "dimensions": { "width": 125, "height": 125, "height3d": 0 }
+  },
+  {
+    "id": 1466,
+    "title": "Vlinderstruik rood 50",
+    "model": "vindelstruik-rood-50.1.glb",
+    "dimensions": { "width": 25, "height": 25, "height3d": 0 }
+  },
+  {
+    "id": 489,
+    "title": "Vlinderstruik schets",
+    "model": "vlinderstruik.1.glb",
+    "dimensions": { "width": 73, "height": 73, "height3d": 0 }
+  },
+  {
+    "id": 1212,
+    "title": "Vrouwenmantel",
+    "model": "vrouwenmantel.1.glb",
+    "dimensions": { "width": 15, "height": 15, "height3d": 0 }
+  },
+  {
+    "id": 93,
+    "title": "Vuilnis",
+    "model": "vuilnis-grijs.1.glb",
+    "dimensions": { "width": 47, "height": 42, "height3d": 0 }
+  },
+  {
+    "id": 737,
+    "title": "Vuilnis geel",
+    "model": "vuilnis-geel.1.glb",
+    "dimensions": { "width": 47, "height": 42, "height3d": 0 }
+  },
+  {
+    "id": 738,
+    "title": "Vuilnis groen",
+    "model": "vuilnis-groen.1.glb",
+    "dimensions": { "width": 47, "height": 42, "height3d": 0 }
+  },
+  {
+    "id": 111,
+    "title": "Wandslangbox auto roll-up",
+    "model": "garden-haspel.1.glb",
+    "dimensions": { "width": 14, "height": 38, "height3d": 0 }
+  },
+  {
+    "id": 112,
+    "title": "Wandslanghouder",
+    "model": "wandslanghouder.1.glb",
+    "dimensions": { "width": 51, "height": 46, "height3d": 0 }
+  },
+  {
+    "id": 212,
+    "title": "Waterbron",
+    "model": "waterbron.1.glb",
+    "dimensions": { "width": 20, "height": 20, "height3d": 100 }
+  },
+  {
+    "id": 213,
+    "title": "Waterfontein",
+    "model": "waterfontein.1.glb",
+    "dimensions": { "width": 84, "height": 86, "height3d": 0 }
+  },
+  {
+    "id": 214,
+    "title": "Waterkraan",
+    "model": "waterkraan.1.glb",
+    "dimensions": { "width": 10, "height": 19, "height3d": 0 }
+  },
+  {
+    "id": 94,
+    "title": "Waterplant",
+    "model": "waterplant.1.glb",
+    "dimensions": { "width": 52, "height": 55, "height3d": 0 }
+  },
+  {
+    "id": 704,
+    "title": "Waterplant bruin",
+    "model": "waterplant-bruin.1.glb",
+    "dimensions": { "width": 52, "height": 55, "height3d": 0 }
+  },
+  {
+    "id": 85,
+    "title": "Waterplanten",
+    "model": "waterplanten-groen.1.glb",
+    "dimensions": { "width": 74, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 705,
+    "title": "Waterplanten bruin",
+    "model": "waterplanten-bruin.1.glb",
+    "dimensions": { "width": 74, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 487,
+    "title": "Waterplanten schets",
+    "model": "waterplanten.1.glb",
+    "dimensions": { "width": 74, "height": 78, "height3d": 0 }
+  },
+  {
+    "id": 488,
+    "title": "Waterplant schets",
+    "model": "waterplant.1.glb",
+    "dimensions": { "width": 52, "height": 55, "height3d": 0 }
+  },
+  {
+    "id": 631,
+    "title": "Water uitstroom",
+    "model": "wateruitstroom.1.glb",
+    "dimensions": { "width": 80, "height": 32, "height3d": 0 }
+  },
+  {
+    "id": 203,
+    "title": "Wilg",
+    "model": "wilg.1.glb",
+    "dimensions": { "width": 155, "height": 156, "height3d": 0 }
+  },
+  {
+    "id": 801,
+    "title": "Wilg bruin",
+    "model": "wilg-bruin.1.glb",
+    "dimensions": { "width": 155, "height": 156, "height3d": 0 }
+  },
+  {
+    "id": 799,
+    "title": "Wilg donkergroen",
+    "model": "wilg-donkergroen.1.glb",
+    "dimensions": { "width": 155, "height": 156, "height3d": 0 }
+  },
+  {
+    "id": 800,
+    "title": "Wilg geelbruin",
+    "model": "wilg-geelbruin.1.glb",
+    "dimensions": { "width": 155, "height": 156, "height3d": 0 }
+  },
+  {
+    "id": 486,
+    "title": "Wilg schets",
+    "model": "wilg.1.glb",
+    "dimensions": { "width": 155, "height": 156, "height3d": 0 }
+  },
+  {
+    "id": 442,
+    "title": "WipKip",
+    "model": "wipkip-hout.1.glb",
+    "dimensions": { "width": 14, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 758,
+    "title": "WipKip geel",
+    "model": "wipkip-geel.1.glb",
+    "dimensions": { "width": 14, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 441,
+    "title": "WipWap",
+    "model": "wipwap.1.glb",
+    "dimensions": { "width": 6, "height": 100, "height3d": 0 }
+  },
+  {
+    "id": 1643,
+    "title": "Wisteria h=100",
+    "model": "wisteria-klimplant-h100-e9d039aa3823f41eff44.glb",
+    "dimensions": { "width": 36, "height": 20, "height3d": 0 }
+  },
+  {
+    "id": 1645,
+    "title": "Wisteria h=150",
+    "model": "wisteria-klimplant-h150-81e95013dfc4dbc4d064.glb",
+    "dimensions": { "width": 40, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1646,
+    "title": "Wisteria h=200",
+    "model": "wisteria-klimplant-h200-ee20497713421b9168fe.glb",
+    "dimensions": { "width": 40, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1647,
+    "title": "Wisteria h=250",
+    "model": "wisteria-klimplant-h250-faad883c8e1a4cf2c8b8.glb",
+    "dimensions": { "width": 40, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1648,
+    "title": "Wisteria h=300",
+    "model": "wisteria-klimplant-h300-0a4d246bb086e540a589.glb",
+    "dimensions": { "width": 40, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 1644,
+    "title": "Wisteria h=50",
+    "model": "wisteria-klimplant-h50-0793adb67b8767cf9b27.glb",
+    "dimensions": { "width": 40, "height": 30, "height3d": 0 }
+  },
+  {
+    "id": 575,
+    "title": "Zakenman",
+    "model": "gentleman.1.glb",
+    "dimensions": { "width": 28, "height": 16 }
+  },
+  {
+    "id": 73,
+    "title": "Zandbak",
+    "model": "zandbak.1.glb",
+    "dimensions": { "width": 73, "height": 66, "height3d": 0 }
+  },
+  {
+    "id": 45,
+    "title": "Zitbank",
+    "model": "zitbank-lichtbruin.1.glb",
+    "dimensions": { "width": 94, "height": 41, "height3d": 0 }
+  },
+  {
+    "id": 600,
+    "title": "Zitbank donkerbruin",
+    "model": "zitbank-donkerbruin.1.glb",
+    "dimensions": { "width": 94, "height": 41, "height3d": 0 }
+  },
+  {
+    "id": 603,
+    "title": "Zitbank metallic",
+    "model": "zitbank-metallic.1.glb",
+    "dimensions": { "width": 94, "height": 41, "height3d": 0 }
+  },
+  {
+    "id": 604,
+    "title": "Zitbank zwart",
+    "model": "zitbank-zwart.1.glb",
+    "dimensions": { "width": 94, "height": 41, "height3d": 0 }
+  },
+  {
+    "id": 55,
+    "title": "Zuilboom",
+    "model": "fruitboom-nieuw.1.glb",
+    "dimensions": { "width": 63, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 403,
+    "title": "Zuilboom",
+    "model": "zuilboom.1.glb",
+    "dimensions": { "width": 84, "height": 84, "height3d": 1 }
+  },
+  {
+    "id": 644,
+    "title": "Zuilboom bruin",
+    "model": "zuilboom-bruin.1.glb",
+    "dimensions": { "width": 84, "height": 84, "height3d": 1 }
+  },
+  {
+    "id": 832,
+    "title": "Zuilboom geelbruin",
+    "model": "zuilboom-geelbruin.1.glb",
+    "dimensions": { "width": 84, "height": 84, "height3d": 1 }
+  },
+  {
+    "id": 833,
+    "title": "Zuilboom groen",
+    "model": "zuilboom-groen.1.glb",
+    "dimensions": { "width": 84, "height": 84, "height3d": 1 }
+  },
+  {
+    "id": 834,
+    "title": "Zuilboom rood",
+    "model": "zuilboom-rood.1.glb",
+    "dimensions": { "width": 84, "height": 84, "height3d": 1 }
+  },
+  {
+    "id": 485,
+    "title": "Zuilboom schets",
+    "model": "fruitboom-nieuw.1.glb",
+    "dimensions": { "width": 63, "height": 67, "height3d": 0 }
+  },
+  {
+    "id": 469,
+    "title": "Zweeds rabbatplank",
+    "model": "zweedsrabbat.1.glb",
+    "dimensions": { "width": 5, "height": 150, "height3d": 110 }
+  },
+  {
+    "id": 762,
+    "title": "Zweeds rabbatplank donkerbruin",
+    "model": "zweedsrabbat-donkerbruin.1.glb",
+    "dimensions": { "width": 5, "height": 150, "height3d": 110 }
+  },
+  {
+    "id": 116,
+    "title": "Zwenksproeier",
+    "model": "zwenksproeier.1.glb",
+    "dimensions": { "width": 30, "height": 32, "height3d": 100 }
+  },
+  {
+    "id": 1354,
+    "title": "Zwevende ligschommel",
+    "model": "zwevendeschommel.1.glb",
+    "dimensions": { "width": 90, "height": 40, "height3d": 0 }
+  }
+]

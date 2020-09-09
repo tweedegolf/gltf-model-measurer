@@ -8,6 +8,10 @@ export type Store3D = {
   model: Object3D;
   mirror: boolean;
   gen1: boolean;
+  configUrl: string;
+  modelData: JSON;
+  modelIndex: number;
+  loadModels: (url: string) => void;
 };
 
 export const useStore3D = create<Store3D>(
@@ -18,5 +22,12 @@ export const useStore3D = create<Store3D>(
     canvas: null,
     mirror: false,
     gen1: false,
+    configUrl: "./model_dimensions.json",
+    modelData: null,
+    modelIndex: -1,
+    loadModels: async url => {
+      const data = await fetch(url).then(response => response.json());
+      set({ modelData: data, modelIndex: 0 });
+    },
   })
 );

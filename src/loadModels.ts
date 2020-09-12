@@ -30,9 +30,9 @@ const loadModel = async (data: RowData, index: number) => {
     scene.scale.z = scale; // / 100;
 
     const bbox = new Box3().setFromObject(scene);
-    data.params.width = Math.round((bbox.max.x - bbox.min.x) * 2);
-    data.params.height = Math.round((bbox.max.y - bbox.min.y) * 2);
-    data.params.height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
+    data.params.width = Math.round(bbox.max.x - bbox.min.x);
+    data.params.height = Math.round(bbox.max.y - bbox.min.y);
+    data.params.height3d = Math.round(bbox.max.z - bbox.min.z);
     // console.log(width, height, height3d);
     collectJSON.push(data);
 

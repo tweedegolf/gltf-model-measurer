@@ -125,9 +125,9 @@ export const addModel = (
 ): void => {
   // console.log(model, world);
   // if (gen1 === true) {
-  model.scale.x = 100 / 2;
-  model.scale.y = 100 / 2;
-  model.scale.z = 100 / 2;
+  // model.scale.x = 100; // / 2;
+  // model.scale.y = 100; // / 2;
+  // model.scale.z = 100; // / 2;
   // }
 
   model.traverse(obj => {

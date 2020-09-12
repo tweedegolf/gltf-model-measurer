@@ -9,9 +9,23 @@ export type Store3D = {
   mirror: boolean;
   gen1: boolean;
   configUrl: string;
-  modelData: JSON;
+  modelData: ModelData[];
   modelIndex: number;
   loadModels: (url: string) => void;
+};
+
+export type ModelData = {
+  id: string;
+  title: string;
+  model: string;
+  dimensions: {
+    width: number;
+    height: number;
+    height3d: number;
+  };
+  rotation: [number, number, number];
+  translation: [number, number, number];
+  scale: number;
 };
 
 export const useStore3D = create<Store3D>(

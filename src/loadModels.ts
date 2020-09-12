@@ -1,7 +1,7 @@
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import { Box3 } from "three";
-import { useStore3D, Store3D, ModelData } from "./store";
+import { useStore3D, Store3D, RowData } from "./store";
 import { download } from "./download";
 
 const loader = new GLTFLoader();
@@ -10,12 +10,15 @@ dracoLoader.setDecoderPath("https://www.gstatic.com/draco/v1/decoders/");
 loader.setDRACOLoader(dracoLoader);
 const collectJSON = [];
 
-const loadModel = async (data: ModelData, index: number) => {
+const loadModel = async (data: RowData, index: number) => {
+  const params3D = data.params_3d["3d-params"];
+  const modelName = params3D.model;
   try {
-    const model = await loader.loadAsync(`models/${data.model}`);
+    const model = await loader.loadAsync(`models/${modelName}`);
     const scene = model["scene"];
     // console.log(data.scale);
-    const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = data;
+    // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = data.params;
+    const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = params3D;
     scene.rotation.x = rotation[0];
     scene.rotation.y = rotation[1];
     scene.rotation.z = rotation[2];
@@ -27,23 +30,17 @@ const loadModel = async (data: ModelData, index: number) => {
     scene.scale.z = scale; // / 100;
 
     const bbox = new Box3().setFromObject(scene);
-    const width = Math.round((bbox.max.x - bbox.min.x) * 2);
-    const height = Math.round((bbox.max.y - bbox.min.y) * 2);
-    const height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
+    data.params.width = Math.round((bbox.max.x - bbox.min.x) * 2);
+    data.params.height = Math.round((bbox.max.y - bbox.min.y) * 2);
+    data.params.height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
     // console.log(width, height, height3d);
-    collectJSON.push({
-      id: data.id,
-      title: data.title,
-      width,
-      height,
-      height3d,
-    });
+    collectJSON.push(data);
 
     setTimeout(() => {
       useStore3D.setState({ model: scene, modelIndex: index + 1 });
     }, 25);
   } catch (e) {
-    console.error(`"${data.model}" could not be found`, e.message);
+    console.error(`"${modelName}" could not be found`, e.message);
     useStore3D.setState({ modelIndex: index + 1 });
   }
 };

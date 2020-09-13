@@ -28,16 +28,20 @@ const loadModel = async (data: RowData, index: number) => {
     scene.scale.x = scale; // / 100;
     scene.scale.y = scale; // / 100;
     scene.scale.z = scale; // / 100;
-
     const bbox = new Box3().setFromObject(scene);
-    data.params.width = Math.round(bbox.max.x - bbox.min.x);
-    data.params.height = Math.round(bbox.max.y - bbox.min.y);
-    data.params.height3d = Math.round(bbox.max.z - bbox.min.z);
+    data.params.width = Math.round((bbox.max.x - bbox.min.x) * 2); // in tjt 50 pixels is 100cm
+    data.params.height = Math.round((bbox.max.y - bbox.min.y) * 2);
+    data.params.height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
+    console.log(data.params);
+    if (typeof data.params.start !== "undefined") {
+      data.params.start *= 2;
+    }
     // console.log(width, height, height3d);
     collectJSON.push(data);
 
     setTimeout(() => {
-      useStore3D.setState({ model: scene, modelIndex: index + 1 });
+      // useStore3D.setState({ model: scene, modelIndex: index + 1 });
+      useStore3D.setState({ model: scene });
     }, 25);
   } catch (e) {
     console.error(`"${modelName}" could not be found`, e.message);
@@ -57,18 +61,25 @@ export const loadFiles = async () => {
   // );
   useStore3D.getState().loadModels(url);
 
+  let init = true;
   useStore3D.subscribe(
     // ([index, data]) => {
     //   loadModel(data, index);
     // },
     state => {
       if (
+        init &&
         state.modelData !== null &&
         state.modelIndex >= 0 &&
         state.modelIndex < state.modelData.length
       ) {
         // return [state.modelIndex, state.modelData[state.modelIndex]];
-        loadModel(state.modelData[state.modelIndex], state.modelIndex);
+        // loadModel(state.modelData[state.modelIndex], state.modelIndex);
+        init = false;
+        const modelIndex = state.modelData.findIndex(
+          data => data.params_3d["3d-params"].model === "bolboom.1.glb"
+        );
+        loadModel(state.modelData[modelIndex], modelIndex);
       } else if (state.modelData !== null && state.modelIndex === state.modelData.length) {
         // return [null, null];
         download(JSON.stringify(collectJSON), "dimensions.json");

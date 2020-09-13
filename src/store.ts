@@ -35,6 +35,7 @@ export type RowData = {
     width: number;
     height: number;
     height3d: number;
+    start?: number;
   };
   params_3d: {
     "3d-params": {

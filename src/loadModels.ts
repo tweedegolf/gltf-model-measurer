@@ -3,6 +3,7 @@ import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import { Box3 } from "three";
 import { useStore3D, Store3D, RowData } from "./store";
 import { download } from "./download";
+import shallow from "zustand/shallow";
 
 const loader = new GLTFLoader();
 const dracoLoader = new DRACOLoader();
@@ -32,7 +33,7 @@ const loadModel = async (data: RowData, index: number) => {
     data.params.width = Math.round((bbox.max.x - bbox.min.x) * 2); // in tjt 50 pixels is 100cm
     data.params.height = Math.round((bbox.max.y - bbox.min.y) * 2);
     data.params.height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
-    console.log(data.params);
+    // console.log(performance.now(), modelName);
     if (typeof data.params.start !== "undefined") {
       data.params.start *= 2;
     }
@@ -40,8 +41,9 @@ const loadModel = async (data: RowData, index: number) => {
     collectJSON.push(data);
 
     setTimeout(() => {
-      // useStore3D.setState({ model: scene, modelIndex: index + 1 });
-      useStore3D.setState({ model: scene });
+      useStore3D.setState({ model: scene, modelIndex: index + 1 });
+      // useStore3D.setState({ modelIndex: index + 1 });
+      // useStore3D.setState({ model: scene });
     }, 25);
   } catch (e) {
     console.error(`"${modelName}" could not be found`, e.message);
@@ -61,30 +63,39 @@ export const loadFiles = async () => {
   // );
   useStore3D.getState().loadModels(url);
 
+  const max = 4; //useStore3D.getState().modelData.length;
   let init = true;
   useStore3D.subscribe(
-    // ([index, data]) => {
-    //   loadModel(data, index);
-    // },
-    state => {
-      if (
-        init &&
-        state.modelData !== null &&
-        state.modelIndex >= 0 &&
-        state.modelIndex < state.modelData.length
-      ) {
-        // return [state.modelIndex, state.modelData[state.modelIndex]];
-        // loadModel(state.modelData[state.modelIndex], state.modelIndex);
-        init = false;
-        const modelIndex = state.modelData.findIndex(
-          data => data.params_3d["3d-params"].model === "bolboom.1.glb"
-        );
-        loadModel(state.modelData[modelIndex], modelIndex);
-      } else if (state.modelData !== null && state.modelIndex === state.modelData.length) {
-        // return [null, null];
+    (index: number) => {
+      const data = useStore3D.getState().modelData[index];
+      if (index >= 0 && data) {
+        loadModel(data, index);
+      } else {
         download(JSON.stringify(collectJSON), "dimensions.json");
       }
+    },
+    state => {
+      // console.log(state.modelIndex);
+      return state.modelIndex;
+      // if (
+      //   // init &&
+      //   // state.modelData !== null &&
+      //   state.modelIndex >= 0 &&
+      //   state.modelIndex < useStore3D.getState().modelData.length
+      // ) {
+      //   return [state.modelIndex, state.modelData[state.modelIndex]];
+      //   // loadModel(state.modelData[state.modelIndex], state.modelIndex);
+      //   // init = false;
+      //   // const modelIndex = state.modelData.findIndex(
+      //   //   data => data.params_3d["3d-params"].model === "bolboom.1.glb"
+      //   // );
+      //   // loadModel(state.modelData[modelIndex], modelIndex);
+      // } else if (state.modelData !== null && state.modelIndex === state.modelData.length) {
+      //   // return [null, null];
+      //   download(JSON.stringify(collectJSON), "dimensions.json");
+      // }
     }
+    // shallow
   );
 
   // const data = await fetch(url).then(response => response.json());

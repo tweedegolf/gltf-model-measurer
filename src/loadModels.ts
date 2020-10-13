@@ -19,24 +19,30 @@ const loadModel = async (data: RowData, index: number) => {
     const scene = model["scene"];
     // console.log(data.scale);
     // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = data.params;
-    const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = params3D;
+    // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = params3D;
+    const { rotation = [0, 0, 0], translation = [0, 0, 0] } = params3D;
+    const scale = 100;
     scene.rotation.x = rotation[0];
     scene.rotation.y = rotation[1];
     scene.rotation.z = rotation[2];
-    scene.position.x = translation[0];
-    scene.position.y = translation[1];
-    scene.position.z = translation[2];
+
+    // scene.position.x = translation[0];
+    // scene.position.y = translation[1];
+    // scene.position.z = translation[2];
     scene.scale.x = scale; // / 100;
     scene.scale.y = scale; // / 100;
     scene.scale.z = scale; // / 100;
+
     const bbox = new Box3().setFromObject(scene);
     data.params.width = Math.round((bbox.max.x - bbox.min.x) * 2); // in tjt 50 pixels is 100cm
     data.params.height = Math.round((bbox.max.y - bbox.min.y) * 2);
     data.params.height3d = Math.round((bbox.max.z - bbox.min.z) * 2);
     // console.log(performance.now(), modelName);
-    if (typeof data.params.start !== "undefined") {
-      data.params.start *= 2;
-    }
+
+    // if (typeof data.params.start !== "undefined") {
+    //   data.params.start *= 2;
+    // }
+
     // console.log(width, height, height3d);
     collectJSON.push(data);
 

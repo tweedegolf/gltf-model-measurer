@@ -1,4 +1,96 @@
 export const models = {
+  "sus-diamond-1": {
+    id: 817,
+    slug: "sus-diamond-1",
+    title: "Sus Diamond",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 40,
+      height: 39,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susdiamond-grijs.1.glb", scale: 30, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  schemerschakelaar: {
+    id: 1627,
+    slug: "schemerschakelaar",
+    title: "Schemerschakelaar",
+    params: { width: 20, height: 20, height3d: 0 },
+    params_3d: {
+      slug: "stroompunt",
+      title: "Stroompunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "stroompunt.1.glb", rotation: [0, 0, 0] },
+    },
+  },
+  "schemerschakelaar-met-timer": {
+    id: 1628,
+    slug: "schemerschakelaar-met-timer",
+    title: "Schemerschakelaar met timer",
+    params: { width: 20, height: 20, height3d: 0 },
+    params_3d: {
+      slug: "stroompunt",
+      title: "Stroompunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "stroompunt.1.glb", rotation: [0, 0, 0] },
+    },
+  },
+  "sus-tube-grijs": {
+    id: 810,
+    slug: "sus-tube-grijs",
+    title: "Sus Tube grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": {
+        layer: 0,
+        scale: 40,
+        model: null,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      width: "16",
+      height: "17",
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sustube-grijs.1.glb",
+        scale: 65,
+        translation: [null, -1, 0],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  tuinverlichting: {
+    id: 72,
+    slug: "tuinverlichting",
+    title: "Tuinlamp (staand)",
+    params: { width: 64, height: 64, height3d: 0 },
+    params_3d: {
+      slug: "tuinverlichting",
+      title: "tuinverlichting",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 25, model: "tuinverlichting.1.glb" },
+    },
+  },
+  spot: {
+    id: 106,
+    slug: "spot",
+    title: "Spot",
+    params: { width: 60, height: 60, height3d: 0 },
+    params_3d: {
+      slug: "spot",
+      title: "Spot",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "spot.1.glb", translation: [0, 0, 0] },
+    },
+  },
   "schutting-hardhout": {
     id: 1711,
     slug: "schutting-hardhout",
@@ -68,6 +160,22 @@ export const models = {
         translation: [0, 0, 0],
         rotation: [0, 0, 1.5707963267948966],
       },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-big-tops-grijs-1": {
+    id: 813,
+    slug: "sus-big-tops-grijs-1",
+    title: "Sus Big Tops grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "22",
+      height: "34",
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susbigtops-grijs.1.glb", scale: 100, layer: 0 },
       "3d-type": "Collada",
     },
   },
@@ -223,6 +331,28 @@ export const models = {
       "3d-type": "Collada",
     },
   },
+  "sus-submerged": {
+    id: 477,
+    slug: "sus-submerged",
+    title: "Sus Submerged",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "30",
+      height: "21",
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussubmerged.1.glb",
+        scale: 60,
+        layer: 0,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      "3d-type": "Collada",
+    },
+  },
   "hekwerk-rondhout-3-liggers": {
     id: 1718,
     slug: "hekwerk-rondhout-3-liggers",
@@ -353,6 +483,54 @@ export const models = {
       "3d-type": "Collada",
     },
   },
+  "sus-deco": {
+    id: 397,
+    slug: "sus-deco",
+    title: "Sus Deco",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susdecodc.1.glb", scale: 50, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-cube": {
+    id: 398,
+    slug: "sus-cube",
+    title: "Sus Cube",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "suscubesdc.1.glb", scale: 50, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-sense-grijs": {
+    id: 821,
+    slug: "sus-sense-grijs",
+    title: "Sus Sense grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "sussense-grijs.1.glb", scale: 30, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
   "laurier-blok-b80-x-l80-x-h80": {
     id: 1723,
     slug: "laurier-blok-b80-x-l80-x-h80",
@@ -415,6 +593,29 @@ export const models = {
         translation: [0, 0, 0],
         rotation: [0, 0, 0],
       },
+    },
+  },
+  "sus-sphere-black": {
+    id: 394,
+    slug: "sus-sphere-black",
+    title: "Sus Sphere Black",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "26",
+      height: "15",
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussphereblack.1.glb",
+        scale: 30,
+        translation: [null, null, 10],
+        layer: 0,
+        rotation: [0, 0, 1.5707963267949],
+      },
+      "3d-type": "Collada",
     },
   },
   "laurier-blok-b180-x-l180-x-h180": {
@@ -497,6 +698,29 @@ export const models = {
       },
     },
   },
+  "sus-sphere-black-grijs-1": {
+    id: 825,
+    slug: "sus-sphere-black-grijs-1",
+    title: "Sus Sphere Black grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "26",
+      height: "15",
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussphere-grijs.1.glb",
+        scale: 30,
+        translation: [null, null, 10],
+        layer: 0,
+        rotation: [null, 1.5707963267949, 1.5707963267949],
+      },
+      "3d-type": "Collada",
+    },
+  },
   "liquidambar-big": {
     id: 1732,
     slug: "liquidambar-big",
@@ -547,6 +771,18 @@ export const models = {
         rotation: [0, 0, -1.5707963267948966],
         translation: [0, 0, 0],
       },
+    },
+  },
+  stroompunt: {
+    id: 209,
+    slug: "stroompunt",
+    title: "Stroompunt",
+    params: { width: 25, height: 17, height3d: 0 },
+    params_3d: {
+      slug: "stroompunt",
+      title: "Stroompunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "stroompunt.1.glb", rotation: [0, 0, 0] },
     },
   },
   "liquidambar-styracyflua-h370": {
@@ -783,6 +1019,18 @@ export const models = {
       "3d-type": "Collada",
     },
   },
+  tafellamp: {
+    id: 92,
+    slug: "tafellamp",
+    title: "Tafellamp",
+    params: { width: 64, height: 64, height3d: 0 },
+    params_3d: {
+      slug: "tafellamp",
+      title: "Tafellamp",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "tafellamp-grijs.1.glb", translation: [0, 0, 32] },
+    },
+  },
   "rotsmotief-180xh23": {
     id: 1746,
     slug: "rotsmotief-180xh23",
@@ -839,6 +1087,30 @@ export const models = {
       "3d-type": "Collada",
     },
   },
+  verdeelbox: {
+    id: 211,
+    slug: "verdeelbox",
+    title: "Ventielbox",
+    params: { width: 24, height: 20, height3d: 100, interval: "150" },
+    params_3d: {
+      slug: "verdeelbox",
+      title: "Verdeelbox",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 300, model: "verdeelbox.1.glb", rotation: [0, 0, 0] },
+    },
+  },
+  "gardena-waterpunt-2": {
+    id: 1607,
+    slug: "gardena-waterpunt-2",
+    title: "Gardena waterpunt",
+    params: { width: 13, height: 13, height3d: 100 },
+    params_3d: {
+      slug: "gardena-waterpunt",
+      title: "Gardena waterpunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 300, model: "gardenawaterpunt.1.glb", rotation: [0, 0, 0] },
+    },
+  },
   "c3s-or-buitenverblijf-comfort-or-900-x-300-x-h250-or": {
     id: 1334,
     slug: "c3s-or-buitenverblijf-comfort-or-900-x-300-x-h250-or",
@@ -889,6 +1161,22 @@ export const models = {
       },
     },
   },
+  "sus-diamond": {
+    id: 396,
+    slug: "sus-diamond",
+    title: "Sus Diamond",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 40,
+      height: 39,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susdiamond.1.glb", scale: 30, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
   "conifeer-blok-b80-x-l80-x-h250": {
     id: 1531,
     slug: "conifeer-blok-b80-x-l80-x-h250",
@@ -903,6 +1191,59 @@ export const models = {
         translation: [0, 0, 0],
         rotation: [0, 0, 0],
       },
+    },
+  },
+  "tafellamp-zwart": {
+    id: 744,
+    slug: "tafellamp-zwart",
+    title: "Tafellamp zwart",
+    params: { width: 64, height: 64, height3d: 0 },
+    params_3d: {
+      slug: "tafellamp",
+      title: "Tafellamp",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "tafellamp-zwart.1.glb", translation: [0, 0, 32] },
+    },
+  },
+  "sus-sense": {
+    id: 399,
+    slug: "sus-sense",
+    title: "Sus Sense",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "sussense.1.glb", scale: 30, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-sun-zwart": {
+    id: 819,
+    slug: "sus-sun-zwart",
+    title: "Sus Sun zwart",
+    params: { fill: 0, height3d: 0, width: 22, height: 22 },
+    params_3d: {
+      "3d-params": {
+        model: "sussun-zwart.1.glb",
+        scale: 60,
+        translation: [null, null, -11],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-sun": {
+    id: 389,
+    slug: "sus-sun",
+    title: "Sus Sun",
+    params: { fill: 0, height3d: 0, width: 22, height: 22 },
+    params_3d: {
+      "3d-params": { model: "sussun.1.glb", scale: 60, translation: [null, null, -11], layer: 0 },
+      "3d-type": "Collada",
     },
   },
   "bloembak-oranjegroen": {
@@ -963,6 +1304,27 @@ export const models = {
       },
     },
   },
+  "sus-mini-sun": {
+    id: 405,
+    slug: "sus-mini-sun",
+    title: "Sus Mini Sun",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 15,
+      height: 15,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "susminisun.1.glb",
+        scale: 60,
+        translation: [null, null, -2],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
   "blokhut-alpha-blank-230-x-255-x-h250": {
     id: 1162,
     slug: "blokhut-alpha-blank-230-x-255-x-h250",
@@ -975,6 +1337,50 @@ export const models = {
         layer: 0,
         translation: [0, 0, 0],
         rotation: [0, 0, 0],
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-small-tops-28w": {
+    id: 814,
+    slug: "sus-small-tops-28w",
+    title: "Sus Small Tops 2,8W",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 20,
+      height: 40,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "sussmalltops-grijs.1.glb", scale: 100, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-square-black-grijs": {
+    id: 823,
+    slug: "sus-square-black-grijs",
+    title: "Sus Square  Black grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": {
+        layer: 0,
+        scale: 40,
+        model: null,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      width: 21,
+      height: 20,
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussquare-grijs.1.glb",
+        translation: [null, null, 0],
+        scale: 80,
+        layer: 0,
       },
       "3d-type": "Collada",
     },
@@ -995,6 +1401,29 @@ export const models = {
       },
     },
   },
+  "sus-tube": {
+    id: 406,
+    slug: "sus-tube",
+    title: "Sus Tube",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": {
+        layer: 0,
+        scale: 40,
+        model: null,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      width: "16",
+      height: "17",
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": { model: "sustube.1.glb", scale: 65, translation: [null, 0, 0], layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
   "hedera-blok-b40-x-l40-x-h120": {
     id: 1435,
     slug: "hedera-blok-b40-x-l40-x-h120",
@@ -1009,6 +1438,189 @@ export const models = {
         translation: [0, 0, 0],
         rotation: [0, 0, 1.5707963267949],
       },
+    },
+  },
+  "sus-small-sun": {
+    id: 388,
+    slug: "sus-small-sun",
+    title: "Sus Small Sun",
+    params: { fill: 0, height3d: 0, width: 21, height: 21 },
+    params_3d: {
+      "3d-params": {
+        model: "sussmallsun.1.glb",
+        scale: 60,
+        translation: [null, null, -10],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-big-sun": {
+    id: 390,
+    slug: "sus-big-sun",
+    title: "Sus Big Sun",
+    params: { fill: 0, height3d: 0, width: "25", height: "25" },
+    params_3d: {
+      "3d-params": {
+        model: "susbigsun.1.glb",
+        scale: 42,
+        translation: [null, null, -25],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  tuinlamp: {
+    id: 62,
+    slug: "tuinlamp",
+    title: "Tuinlamp (klein-staand)",
+    params: { width: 64, height: 64, height3d: 0 },
+    params_3d: {
+      slug: "tuinlamp",
+      title: "Tuinlamp",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 50, model: "tuinlamp.1.glb" },
+    },
+  },
+  "sus-reverso-grijs": {
+    id: 820,
+    slug: "sus-reverso-grijs",
+    title: "Sus Reverso grijs",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 21,
+      height: 16,
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "susreverso-grijs.1.glb",
+        translation: [null, null, 0],
+        scale: 60,
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-square-black-1": {
+    id: 412,
+    slug: "sus-square-black-1",
+    title: "Sus Square  Black",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": {
+        layer: 0,
+        scale: 40,
+        model: null,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      width: 21,
+      height: 20,
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussquareblack.1.glb",
+        translation: [null, null, 0],
+        scale: 80,
+        layer: 0,
+        rotation: [null, null, 0],
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-cube-1": {
+    id: 815,
+    slug: "sus-cube-1",
+    title: "Sus Cube",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "suscubesdc-grijs.1.glb", scale: 50, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-submerged-zwart": {
+    id: 824,
+    slug: "sus-submerged-zwart",
+    title: "Sus Submerged zwart",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "30",
+      height: "21",
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "sussubmerged-zwart.1.glb",
+        scale: 60,
+        layer: 0,
+        translation: [0, 0, 0],
+        rotation: [0, 0, 0],
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-mini-sun-zwart": {
+    id: 818,
+    slug: "sus-mini-sun-zwart",
+    title: "Sus Mini Sun zwart",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 15,
+      height: 15,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": {
+        model: "susminisun-zwart.1.glb",
+        scale: 60,
+        translation: [null, null, -2],
+        layer: 0,
+      },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-big-tops": {
+    id: 392,
+    slug: "sus-big-tops",
+    title: "Sus Big Tops",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: "22",
+      height: "34",
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susbigtopszwart.1.glb", scale: 100, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-big-sun-zwart": {
+    id: 811,
+    slug: "sus-big-sun-zwart",
+    title: "Sus Big Sun",
+    params: { fill: 0, height3d: 0, width: "25", height: "25" },
+    params_3d: {
+      "3d-params": {
+        model: "susbigsun-zwart.1.glb",
+        scale: 42,
+        translation: [null, null, -28],
+        layer: 0,
+      },
+      "3d-type": "Collada",
     },
   },
   "westwood-or-buitenverblijf-comfort-or-750-x-300-x-h250-or-c3z": {
@@ -1043,6 +1655,39 @@ export const models = {
       "3d-type": "Collada",
     },
   },
+  "sus-deco-1": {
+    id: 816,
+    slug: "sus-deco-1",
+    title: "Sus Deco ",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 30,
+      height: 30,
+      height3d: 0,
+    },
+    params_3d: {
+      "3d-params": { model: "susdecodc-grijs.1.glb", scale: 50, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
+  "sus-reverso": {
+    id: 395,
+    slug: "sus-reverso",
+    title: "Sus Reverso",
+    params: {
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 40, model: null },
+      width: 21,
+      height: 16,
+      height3d: 0,
+      start: 80,
+    },
+    params_3d: {
+      "3d-params": { model: "susreverso.1.glb", translation: [null, null, 0], scale: 60, layer: 0 },
+      "3d-type": "Collada",
+    },
+  },
   "hedera-blok-b40-x-l40-x-h150": {
     id: 1434,
     slug: "hedera-blok-b40-x-l40-x-h150",
@@ -1057,6 +1702,30 @@ export const models = {
         translation: [0, 0, 0],
         rotation: [0, 0, 1.5707963267949],
       },
+    },
+  },
+  "gardena-waterpunt-1": {
+    id: 1606,
+    slug: "gardena-waterpunt-1",
+    title: "Gardena waterpunt",
+    params: { width: 13, height: 13, height3d: 100 },
+    params_3d: {
+      slug: "gardena-waterpunt",
+      title: "Gardena waterpunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 300, model: "gardenawaterpunt.1.glb", rotation: [0, 0, 0] },
+    },
+  },
+  "t-stuk": {
+    id: 1608,
+    slug: "t-stuk",
+    title: "T-stuk",
+    params: { width: 13, height: 13, height3d: 100 },
+    params_3d: {
+      slug: "gardena-waterpunt",
+      title: "Gardena waterpunt",
+      "3d-type": "Collada",
+      "3d-params": { layer: 0, scale: 300, model: "gardenawaterpunt.1.glb", rotation: [0, 0, 0] },
     },
   },
   pole: {
@@ -2494,12 +3163,7 @@ export const models = {
       slug: "barbeque",
       title: "Barbeque",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 35,
-        model: "barbeque.1.glb",
-        rotation: [0, 0, -1.570796],
-      },
+      "3d-params": { layer: 0, scale: 35, model: "barbeque.1.glb", rotation: [0, 0, -1.570796] },
     },
   },
   "6-zits-lounge-links-zwart": {
@@ -3007,12 +3671,7 @@ export const models = {
       slug: "bamboe",
       title: "Bamboe",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "bamboe-lichtbruin.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "bamboe-lichtbruin.1.glb", rotation: [0, 0, 0] },
     },
   },
   "bamboe-lichtgroen": {
@@ -3024,12 +3683,7 @@ export const models = {
       slug: "bamboe",
       title: "Bamboe",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "bamboe-lichtgroen.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "bamboe-lichtgroen.1.glb", rotation: [0, 0, 0] },
     },
   },
   "bamboepaal-100-mm": {
@@ -3195,12 +3849,7 @@ export const models = {
       slug: "microdrip",
       title: "Microdrip-Start-Pakket",
       "3d-type": "Collada",
-      "3d-params": {
-        translation: [0, 0, 4],
-        layer: 0,
-        scale: 45,
-        model: "microdipsystem.1.glb",
-      },
+      "3d-params": { translation: [0, 0, 4], layer: 0, scale: 45, model: "microdipsystem.1.glb" },
     },
   },
   "bamboe-horz-5-b250": {
@@ -3959,12 +4608,7 @@ export const models = {
       slug: "zitbank",
       title: "Zitbank",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "burnivuurtafel.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "burnivuurtafel.1.glb", rotation: [0, 0, 0] },
     },
   },
   "blokhut-rood-dakpan360-x-480": {
@@ -4299,10 +4943,7 @@ export const models = {
       height: 14,
       height3d: 58,
     },
-    params_3d: {
-      "3d-params": { model: "bosco.1.glb", scale: 18, layer: 0 },
-      "3d-type": "Collada",
-    },
+    params_3d: { "3d-params": { model: "bosco.1.glb", scale: 18, layer: 0 }, "3d-type": "Collada" },
   },
   "bosco-donkerbruin": {
     id: 757,
@@ -4503,12 +5144,7 @@ export const models = {
       slug: "zitbank",
       title: "Zitbank",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "burnienokdeur-zwart.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "burnienokdeur-zwart.1.glb", rotation: [0, 0, 0] },
     },
   },
   "buitenverblijf-c1-400-x-330-x-h250": {
@@ -4888,12 +5524,7 @@ export const models = {
       slug: "zitbank",
       title: "Zitbank",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijf-c5z.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijf-c5z.1.glb", rotation: [0, 0, 0] },
     },
   },
   "buitenverblijf-c5z-600-x-330-x-h250-1": {
@@ -4937,12 +5568,7 @@ export const models = {
       slug: "zitbank",
       title: "Zitbank",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "burnionbehandeld.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "burnionbehandeld.1.glb", rotation: [0, 0, 0] },
     },
   },
   "buxus-b40-x-l120-x-h100": {
@@ -5334,11 +5960,7 @@ export const models = {
     params: { height3d: 250, width: 300, height: 330 },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijfcomfortc1-darkroof-300.1.glb",
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijfcomfortc1-darkroof-300.1.glb" },
     },
   },
   "buitenverblijf-c1-epdm-400-x-330-x-h250": {
@@ -5364,11 +5986,7 @@ export const models = {
     params: { height3d: 250, width: 500, height: 330 },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijfcomfortc1-darkroof-500.1.glb",
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijfcomfortc1-darkroof-500.1.glb" },
     },
   },
   "buitenverblijf-comfort-c1-epdm-600-x-330-x-h250": {
@@ -5378,11 +5996,7 @@ export const models = {
     params: { height3d: 250, width: 600, height: 330 },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijfcomfortc1-darkroof-600.1.glb",
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijfcomfortc1-darkroof-600.1.glb" },
     },
   },
   "buitenverblijf-comfort-c1-epdm-750-x-330-x-h250": {
@@ -5392,11 +6006,7 @@ export const models = {
     params: { height3d: 250, width: 750, height: 330 },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijfcomfortc1-darkroof-750.1.glb",
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijfcomfortc1-darkroof-750.1.glb" },
     },
   },
   "buitenverblijf-comfort-c1-epdm-900-x-330-x-h250": {
@@ -5406,11 +6016,7 @@ export const models = {
     params: { height3d: 250, width: 900, height: 330 },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "buitenverblijfcomfortc1-darkroof-900.1.glb",
-      },
+      "3d-params": { layer: 0, scale: 50, model: "buitenverblijfcomfortc1-darkroof-900.1.glb" },
     },
   },
   "vrijbuiter-or-400-x-300-cm-or-c1": {
@@ -6953,12 +7559,7 @@ export const models = {
       slug: "conifeer",
       title: "Conifeer",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "conifeer.1.glb",
-        translation: [0, 0, -11],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "conifeer.1.glb", translation: [0, 0, -11] },
     },
   },
   "conifeer-b40-x-l120-x-h100": {
@@ -8665,10 +9266,7 @@ export const models = {
       height: 6,
       height3d: 59,
     },
-    params_3d: {
-      "3d-params": { model: "eye.1.glb", scale: 32, layer: 0 },
-      "3d-type": "Collada",
-    },
+    params_3d: { "3d-params": { model: "eye.1.glb", scale: 32, layer: 0 }, "3d-type": "Collada" },
   },
   fiets: {
     id: 87,
@@ -8754,12 +9352,7 @@ export const models = {
       slug: "fiets",
       title: "Fiets",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 52,
-        model: "fiets-rood.1.glb",
-        rotation: [0, 0, 3.141592],
-      },
+      "3d-params": { layer: 0, scale: 52, model: "fiets-rood.1.glb", rotation: [0, 0, 3.141592] },
     },
   },
   "fiets-zwart": {
@@ -8771,12 +9364,7 @@ export const models = {
       slug: "fiets",
       title: "Fiets",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 52,
-        model: "fiets-zwart.1.glb",
-        rotation: [0, 0, 3.141592],
-      },
+      "3d-params": { layer: 0, scale: 52, model: "fiets-zwart.1.glb", rotation: [0, 0, 3.141592] },
     },
   },
   "fruitboom-1": {
@@ -8917,12 +9505,7 @@ export const models = {
       slug: "gardena-waterpunt",
       title: "Gardena waterpunt",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 300,
-        model: "gardenawaterpunt.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 300, model: "gardenawaterpunt.1.glb", rotation: [0, 0, 0] },
     },
   },
   "gaura-lindheimeri-white-dove": {
@@ -10975,10 +11558,7 @@ export const models = {
       height: 35,
       height3d: 22,
     },
-    params_3d: {
-      "3d-params": { model: "keien.1.glb", scale: 5, layer: 0 },
-      "3d-type": "Collada",
-    },
+    params_3d: { "3d-params": { model: "keien.1.glb", scale: 5, layer: 0 }, "3d-type": "Collada" },
   },
   "kers-1": {
     id: 787,
@@ -11451,12 +12031,7 @@ export const models = {
       slug: "siergras",
       title: "Siergras",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 30,
-        model: "lampepoetsersgras.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 30, model: "lampepoetsersgras.1.glb", rotation: [0, 0, 0] },
     },
   },
   landhek: {
@@ -11991,12 +12566,7 @@ export const models = {
       slug: "ligstoelen",
       title: "Ligstoelen",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 45,
-        model: "ligstoelen.1.glb",
-        rotation: [0, 0, 1.570796],
-      },
+      "3d-params": { layer: 0, scale: 45, model: "ligstoelen.1.glb", rotation: [0, 0, 1.570796] },
     },
   },
   "ligstoel-blauw": {
@@ -12447,12 +13017,7 @@ export const models = {
       slug: "mensen-geel",
       title: "Mensen",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 65,
-        model: "man-oranje.1.glb",
-        translation: [0, 0, 1],
-      },
+      "3d-params": { layer: 0, scale: 65, model: "man-oranje.1.glb", translation: [0, 0, 1] },
     },
   },
   "man-rood": {
@@ -12608,12 +13173,7 @@ export const models = {
       slug: "stationwagen",
       title: "Stationwagen",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 60,
-        model: "paardentrailer.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 60, model: "paardentrailer.1.glb", rotation: [0, 0, 0] },
     },
   },
   pachysandra: {
@@ -12762,12 +13322,7 @@ export const models = {
       slug: "parasol",
       title: "Parasol",
       "3d-type": "Collada",
-      "3d-params": {
-        rotation: [0, 0, 0],
-        layer: 0,
-        scale: 50,
-        model: "parasol-blauw.1.glb",
-      },
+      "3d-params": { rotation: [0, 0, 0], layer: 0, scale: 50, model: "parasol-blauw.1.glb" },
     },
   },
   "parasol-groen": {
@@ -12779,12 +13334,7 @@ export const models = {
       slug: "parasol",
       title: "Parasol",
       "3d-type": "Collada",
-      "3d-params": {
-        rotation: [0, 0, 0],
-        layer: 0,
-        scale: 50,
-        model: "parasol-groen.1.glb",
-      },
+      "3d-params": { rotation: [0, 0, 0], layer: 0, scale: 50, model: "parasol-groen.1.glb" },
     },
   },
   "parasol-milkey": {
@@ -12796,12 +13346,7 @@ export const models = {
       slug: "parasol",
       title: "Parasol",
       "3d-type": "Collada",
-      "3d-params": {
-        rotation: [0, 0, 0],
-        layer: 0,
-        scale: 50,
-        model: "parasol-milkey.1.glb",
-      },
+      "3d-params": { rotation: [0, 0, 0], layer: 0, scale: 50, model: "parasol-milkey.1.glb" },
     },
   },
   "parasol-oranjegeel": {
@@ -12813,12 +13358,7 @@ export const models = {
       slug: "parasol",
       title: "Parasol",
       "3d-type": "Collada",
-      "3d-params": {
-        rotation: [0, 0, 0],
-        layer: 0,
-        scale: 50,
-        model: "parasol-oranjegeel.1.glb",
-      },
+      "3d-params": { rotation: [0, 0, 0], layer: 0, scale: 50, model: "parasol-oranjegeel.1.glb" },
     },
   },
   "pergola-item": {
@@ -13048,12 +13588,7 @@ export const models = {
       slug: "viburnum",
       title: "Viburnum",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "prunuslaucerasus-80.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "prunuslaucerasus-80.1.glb", rotation: [0, 0, 0] },
     },
   },
   "prunus-lusitanica-angustifolia-h100": {
@@ -13984,12 +14519,7 @@ export const models = {
       slug: "riet",
       title: "Riet",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "riet-geelbruin.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "riet-geelbruin.1.glb", rotation: [0, 0, 0] },
     },
   },
   "riet-schets": {
@@ -14687,12 +15217,7 @@ export const models = {
       slug: "siergras",
       title: "Siergras",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "siergras-groengeel.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "siergras-groengeel.1.glb", rotation: [0, 0, 0] },
     },
   },
   "siergras-schets": {
@@ -14734,12 +15259,7 @@ export const models = {
       slug: "skimmia",
       title: "Skimmia",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "skimmia-bruinpaars.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "skimmia-bruinpaars.1.glb", rotation: [0, 0, 0] },
     },
   },
   "skimmia-bruinrood": {
@@ -14751,12 +15271,7 @@ export const models = {
       slug: "skimmia",
       title: "Skimmia",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "skimmia-bruinrood.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "skimmia-bruinrood.1.glb", rotation: [0, 0, 0] },
     },
   },
   "spar-boom-h1500": {
@@ -14796,12 +15311,7 @@ export const models = {
       slug: "skimmia",
       title: "Skimmia",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "skimmia-paars.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "skimmia-paars.1.glb", rotation: [0, 0, 0] },
     },
   },
   "skimmia-schets": {
@@ -14831,12 +15341,7 @@ export const models = {
       slug: "slangenbox",
       title: "Slangenbox",
       "3d-type": "Collada",
-      "3d-params": {
-        translation: [-5, 18, 45],
-        layer: 0,
-        scale: 45,
-        model: "slangenbox.1.glb",
-      },
+      "3d-params": { translation: [-5, 18, 45], layer: 0, scale: 45, model: "slangenbox.1.glb" },
     },
   },
   slangwagen: {
@@ -14931,12 +15436,7 @@ export const models = {
       slug: "spierstruik",
       title: "Spierstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "spierstruik-wit.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "spierstruik-wit.1.glb", rotation: [0, 0, 0] },
     },
   },
   "spierstruik-blauw": {
@@ -14948,12 +15448,7 @@ export const models = {
       slug: "spierstruik",
       title: "Spierstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "spierstruik-blauw.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "spierstruik-blauw.1.glb", rotation: [0, 0, 0] },
     },
   },
   "spierstruik-1": {
@@ -14982,12 +15477,7 @@ export const models = {
       slug: "spierstruik",
       title: "Spierstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "spierstruik-rood.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "spierstruik-rood.1.glb", rotation: [0, 0, 0] },
     },
   },
   "spierstruik-roze": {
@@ -14999,12 +15489,7 @@ export const models = {
       slug: "spierstruik",
       title: "Spierstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "spierstruik-roze.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "spierstruik-roze.1.glb", rotation: [0, 0, 0] },
     },
   },
   "spierstruik-schets": {
@@ -15034,12 +15519,7 @@ export const models = {
       slug: "sproeier",
       title: "Sproeier",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 25,
-        model: "sproeier.1.glb",
-        translation: [0, -18, 0],
-      },
+      "3d-params": { layer: 0, scale: 25, model: "sproeier.1.glb", translation: [0, -18, 0] },
     },
   },
   "toscaans-jasmijn-h300": {
@@ -15179,10 +15659,7 @@ export const models = {
       height3d: 91,
       interval: "50",
     },
-    params_3d: {
-      "3d-params": { model: "stoel.1.glb", scale: 35, layer: 0 },
-      "3d-type": "Collada",
-    },
+    params_3d: { "3d-params": { model: "stoel.1.glb", scale: 35, layer: 0 }, "3d-type": "Collada" },
   },
   "stoel-grijs": {
     id: 1656,
@@ -15359,10 +15836,7 @@ export const models = {
       height3d: 70,
       interval: "150",
     },
-    params_3d: {
-      "3d-params": { model: "tafel.1.glb", scale: 40, layer: 0 },
-      "3d-type": "Collada",
-    },
+    params_3d: { "3d-params": { model: "tafel.1.glb", scale: 40, layer: 0 }, "3d-type": "Collada" },
   },
   "tafel-rond": {
     id: 437,
@@ -16211,12 +16685,7 @@ export const models = {
       slug: "tuinset",
       title: "Tuinset",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 40,
-        model: "gardenset.1.glb",
-        rotation: [0, 0, 1.570796],
-      },
+      "3d-params": { layer: 0, scale: 40, model: "gardenset.1.glb", rotation: [0, 0, 1.570796] },
     },
   },
   "tulpen-schets": {
@@ -16695,12 +17164,7 @@ export const models = {
       slug: "viburnum",
       title: "Viburnum",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 25,
-        model: "viburnum-bruin.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 25, model: "viburnum-bruin.1.glb", rotation: [0, 0, 0] },
     },
   },
   "viburnum-geelbruin": {
@@ -16712,12 +17176,7 @@ export const models = {
       slug: "viburnum",
       title: "Viburnum",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 25,
-        model: "viburnum-geelbruin.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 25, model: "viburnum-geelbruin.1.glb", rotation: [0, 0, 0] },
     },
   },
   "viburnum-paars": {
@@ -16729,12 +17188,7 @@ export const models = {
       slug: "viburnum",
       title: "Viburnum",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 25,
-        model: "viburnum-paars.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 25, model: "viburnum-paars.1.glb", rotation: [0, 0, 0] },
     },
   },
   "viburnum-schets": {
@@ -16972,12 +17426,7 @@ export const models = {
       slug: "vlinderstruik",
       title: "Vlinderstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "vlinderstruik.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "vlinderstruik.1.glb", rotation: [0, 0, 0] },
     },
   },
   "vlinderstruik-150": {
@@ -17159,12 +17608,7 @@ export const models = {
       slug: "vlinderstruik",
       title: "Vlinderstruik",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 50,
-        model: "vlinderstruik-rood.1.glb",
-        rotation: [0, 0, 0],
-      },
+      "3d-params": { layer: 0, scale: 50, model: "vlinderstruik-rood.1.glb", rotation: [0, 0, 0] },
     },
   },
   "vlinderstruik-rood-100": {
@@ -17421,12 +17865,7 @@ export const models = {
       slug: "waterplant",
       title: "Waterplant",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 3,
-        scale: 80,
-        translation: [0, 0, 1],
-        model: "waterplant.1.glb",
-      },
+      "3d-params": { layer: 3, scale: 80, translation: [0, 0, 1], model: "waterplant.1.glb" },
     },
   },
   "waterplant-bruin": {
@@ -17438,12 +17877,7 @@ export const models = {
       slug: "waterplant",
       title: "Waterplant",
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 3,
-        scale: 80,
-        translation: [0, 0, 5],
-        model: "waterplant-bruin.1.glb",
-      },
+      "3d-params": { layer: 3, scale: 80, translation: [0, 0, 5], model: "waterplant-bruin.1.glb" },
     },
   },
   waterplanten: {
@@ -17523,12 +17957,7 @@ export const models = {
     params: { width: 180, height: 88, height3d: null, interval: "150" },
     params_3d: {
       "3d-type": "Collada",
-      "3d-params": {
-        layer: 0,
-        scale: 45,
-        model: "wateruitstroom.1.glb",
-        translation: [null, -14],
-      },
+      "3d-params": { layer: 0, scale: 45, model: "wateruitstroom.1.glb", translation: [null, -14] },
     },
   },
   wilg: {
@@ -17675,12 +18104,7 @@ export const models = {
       height3d: 76,
     },
     params_3d: {
-      "3d-params": {
-        model: "wipwap.1.glb",
-        translation: [0, null, 0],
-        scale: 25,
-        layer: 0,
-      },
+      "3d-params": { model: "wipwap.1.glb", translation: [0, null, 0], scale: 25, layer: 0 },
       "3d-type": "Collada",
     },
   },

@@ -1,4 +1,4 @@
-import { useStore3D, Store3D } from "./store";
+import { useStore3D } from "./store";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 

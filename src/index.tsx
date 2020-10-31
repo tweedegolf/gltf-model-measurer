@@ -3,8 +3,9 @@ import React from "react";
 import { render } from "react-dom";
 import { useStore3D } from "./store";
 import { ThreeContainer } from "./ThreeContainer";
-import { setupDropArea } from "./setupDropArea";
-import { loadFiles } from "./loadModels";
+// import { setupDropArea } from "./setupDropArea";
+import { init } from "./loadModels";
+import { models } from "./models";
 
 const resize = () => {
   useStore3D.setState({
@@ -19,8 +20,9 @@ render(
   </>,
   document.getElementById("app"),
   () => {
-    setupDropArea();
-    loadFiles();
+    // setupDropArea();
+    init();
+    useStore3D.setState({ modelData: Object.values(models), modelIndex: 0 });
   }
 );
 

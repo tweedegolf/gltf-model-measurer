@@ -1,6 +1,7 @@
 import { Object3D, AxesHelper, Scene } from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import { useStore3D, Store3D } from "./store";
+import { useStore3D } from "./store";
+import { Store3D } from "./types";
 import {
   createCamera,
   createRenderer,

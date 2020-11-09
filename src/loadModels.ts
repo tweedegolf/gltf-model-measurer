@@ -12,9 +12,20 @@ loader.setDRACOLoader(dracoLoader);
 const collectJSON = [];
 
 const loadModel = async (data: Row, index: number) => {
+  // console.log(data.title, data.params_3d);
+  if (typeof data.params_3d["3d-params"] === "undefined") {
+    // console.log("already updated", data.title);
+    // useStore3D.setState({ modelIndex: index + 1 });
+    setTimeout(() => {
+      useStore3D.setState({ modelIndex: index + 1 });
+    }, 5);
+    return;
+  }
+
   const params3D = data.params_3d["3d-params"];
   const modelName = params3D.model;
   try {
+    console.log("LOADING", data.title, modelName);
     const model = await loader.loadAsync(`models/${modelName}`);
     const scene = model["scene"];
     // console.log(data.scale);
@@ -48,7 +59,7 @@ const loadModel = async (data: Row, index: number) => {
       // useStore3D.setState({ model: scene });
     }, 25);
   } catch (e) {
-    console.error(`"${modelName}" could not be found`, e.message);
+    console.error(`"${modelName}" could not be found`, e);
     useStore3D.setState({ modelIndex: index + 1 });
   }
 };
@@ -58,6 +69,7 @@ export const init = () => {
     (index: number) => {
       const max = useStore3D.getState().modelData.length;
       const data = useStore3D.getState().modelData[index];
+      // console.log(index, max);
       if (index >= 0 && data && index < max) {
         loadModel(data, index);
       } else {

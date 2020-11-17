@@ -1,8 +1,9 @@
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import { Box3 } from "three";
+import { isNil } from "ramda";
 import { useStore3D } from "./store";
-import { Row2 } from "./types";
+// import { Data } from "./types";
 import { download } from "./download";
 
 const loader = new GLTFLoader();
@@ -11,9 +12,9 @@ dracoLoader.setDecoderPath("https://www.gstatic.com/draco/v1/decoders/");
 loader.setDRACOLoader(dracoLoader);
 const collectJSON = [];
 
-const loadModel = async (data: Row2, index: number) => {
+const loadModel = async (data: any, index: number) => {
   // console.log(data.title, data.params_3d);
-  if (data.params.type3d !== "Collada") {
+  if (!isNil(data.params.model) || !isNil(data.params.children)) {
     // console.log("already updated", data.title);
     // useStore3D.setState({ modelIndex: index + 1 });
     setTimeout(() => {

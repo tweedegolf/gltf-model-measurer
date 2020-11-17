@@ -6,7 +6,7 @@ import { ThreeContainer } from "./ThreeContainer";
 // import { setupDropArea } from "./setupDropArea";
 import { init } from "./loadModels";
 import { models } from "./models";
-import { Row2 } from "./types";
+// import { ModelData } from "./types";
 
 const resize = () => {
   useStore3D.setState({
@@ -23,7 +23,7 @@ render(
   () => {
     // setupDropArea();
     init();
-    const modelData = Object.values(models) as Row2[];
+    const modelData = Object.values(models) as any[];
     // console.log(modelData);
     useStore3D.setState({ modelData, modelIndex: 0 });
   }

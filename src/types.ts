@@ -8,7 +8,7 @@ export type Store3D = {
   mirror: boolean;
   gen1: boolean;
   // configUrl: string;
-  modelData: Row2[];
+  modelData: Data[];
   modelIndex: number;
   loadModels: (url: string) => void;
 };
@@ -27,18 +27,43 @@ export type Store3D = {
 //   scale: number;
 // };
 
+// export type Params = {
+//   type3d: string;
+//   model: string;
+//   scale: { x: number; y: number; z: number };
+//   rotation: { x: number; y: number; z: number };
+//   translation: { x: number; y: number; z: number };
+//   dimensions: { x: number; y: number; z: number };
+//   layer?: number;
+//   interval?: number;
+//   children?: { [id: string]: Params };
+// };
 export type ModelData = {
   id: number;
-  params: {
-    type3d: string;
-    model: string;
-    scale: { x: number; y: number; z: number };
-    rotation: { x: number; y: number; z: number };
-    translation: { x: number; y: number; z: number };
-    dimensions: { x: number; y: number; z: number };
-    layer?: number;
-    interval?: number;
+  params: Params;
+};
+
+export type Params = {
+  scale?: { x: number; y: number; z: number };
+  translation?: { x: number; y: number; z: number };
+  rotation?: { x: number; y: number; z: number };
+  dimensions?: { xo?: number; yo?: number; zo?: number; x: number; y: number; z: number };
+  type3d?: string;
+  model?: string;
+  layer?: number;
+  texture?: string;
+  textureScale?: number;
+  // initial?: { z: number };
+  start?: number;
+  interval?: number;
+  overlap?: number;
+  children?: {
+    scale?: { x: number; y: number; z: number };
+    translation?: { x: number; y: number; z: number };
+    rotation?: { x: number; y: number; z: number };
+    dimensions?: { xo?: number; yo?: number; zo?: number; x: number; y: number; z: number };
   };
+  params3d?: any;
 };
 
 export type RowData = {

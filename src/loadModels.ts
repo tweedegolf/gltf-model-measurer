@@ -13,8 +13,8 @@ loader.setDRACOLoader(dracoLoader);
 const collectJSON = [];
 
 const loadModel = async (data: any, index: number) => {
-  // console.log(data.title, data.params_3d);
-  if (!isNil(data.params.model) || !isNil(data.params.children)) {
+  // console.log(data.params, isNil(data.params.model));
+  if (isNil(data.params.model)) {
     // console.log("already updated", data.title);
     // useStore3D.setState({ modelIndex: index + 1 });
     setTimeout(() => {
@@ -29,13 +29,14 @@ const loadModel = async (data: any, index: number) => {
     const model = await loader.loadAsync(`models/${modelName}`);
     const scene = model["scene"];
     // console.log(data.scale);
-    // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = data.params;
+    const { rotation = { x: 0, y: 0, z: 0 } } = data.params;
     // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = params3D;
     // const { rotation = [0, 0, 0], translation = [0, 0, 0] } = params3D;
     const scale = 100;
-    // scene.rotation.x = rotation[0];
-    // scene.rotation.y = rotation[1];
-    // scene.rotation.z = rotation[2];
+    // console.log(rotation, rotation.x * (Math.PI / 180));
+    scene.rotation.x = rotation.x * (Math.PI / 180);
+    scene.rotation.y = rotation.y * (Math.PI / 180);
+    scene.rotation.z = rotation.z * (Math.PI / 180);
 
     // scene.position.x = translation[0];
     // scene.position.y = translation[1];

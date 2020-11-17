@@ -8,7 +8,7 @@ export type Store3D = {
   mirror: boolean;
   gen1: boolean;
   // configUrl: string;
-  modelData: Data[];
+  modelData: ModelData[];
   modelIndex: number;
   loadModels: (url: string) => void;
 };

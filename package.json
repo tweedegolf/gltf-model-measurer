@@ -40,7 +40,8 @@
   "scripts": {
     "tsn": "ts-node",
     "build": "webpack --config ./webpack.config.js",
-    "dev": "webpack-dev-server --display-error-details"
+    "dev": "webpack --watch --display-error-details",
+    "dev2": "webpack-dev-server --display-error-details"
   },
   "keywords": [],
   "author": "daniel@abumarkub.net",

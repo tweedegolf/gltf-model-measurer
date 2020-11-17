@@ -8,23 +8,37 @@ export type Store3D = {
   mirror: boolean;
   gen1: boolean;
   // configUrl: string;
-  modelData: Row[];
+  modelData: Row2[];
   modelIndex: number;
   loadModels: (url: string) => void;
 };
 
+// export type ModelData = {
+//   id: string;
+//   title: string;
+//   model: string;
+//   dimensions: {
+//     width: number;
+//     height: number;
+//     height3d: number;
+//   };
+//   rotation: [number, number, number];
+//   translation: [number, number, number];
+//   scale: number;
+// };
+
 export type ModelData = {
-  id: string;
-  title: string;
-  model: string;
-  dimensions: {
-    width: number;
-    height: number;
-    height3d: number;
+  id: number;
+  params: {
+    type3d: string;
+    model: string;
+    scale: { x: number; y: number; z: number };
+    rotation: { x: number; y: number; z: number };
+    translation: { x: number; y: number; z: number };
+    dimensions: { x: number; y: number; z: number };
+    layer?: number;
+    interval?: number;
   };
-  rotation: [number, number, number];
-  translation: [number, number, number];
-  scale: number;
 };
 
 export type RowData = {
@@ -78,5 +92,19 @@ export type Row = {
       textureScale?: number;
       start?: number;
     };
+  };
+};
+
+export type Row2 = {
+  id: number;
+  params: {
+    type3d: string;
+    model: string;
+    scale: { x: number; y: number; z: number };
+    rotation: { x: number; y: number; z: number };
+    translation: { x: number; y: number; z: number };
+    dimensions: { x: number; y: number; z: number };
+    layer?: number;
+    interval?: number;
   };
 };

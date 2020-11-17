@@ -2,7 +2,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import { Box3 } from "three";
 import { useStore3D } from "./store";
-import { Row } from "./types";
+import { Row2 } from "./types";
 import { download } from "./download";
 
 const loader = new GLTFLoader();
@@ -11,9 +11,9 @@ dracoLoader.setDecoderPath("https://www.gstatic.com/draco/v1/decoders/");
 loader.setDRACOLoader(dracoLoader);
 const collectJSON = [];
 
-const loadModel = async (data: Row, index: number) => {
+const loadModel = async (data: Row2, index: number) => {
   // console.log(data.title, data.params_3d);
-  if (typeof data.params_3d["3d-params"] === "undefined") {
+  if (data.params.type3d !== "Collada") {
     // console.log("already updated", data.title);
     // useStore3D.setState({ modelIndex: index + 1 });
     setTimeout(() => {
@@ -22,20 +22,19 @@ const loadModel = async (data: Row, index: number) => {
     return;
   }
 
-  const params3D = data.params_3d["3d-params"];
-  const modelName = params3D.model;
+  const modelName = data.params.model;
   try {
-    console.log("LOADING", data.title, modelName);
+    // console.log("LOADING", data.id, modelName);
     const model = await loader.loadAsync(`models/${modelName}`);
     const scene = model["scene"];
     // console.log(data.scale);
     // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = data.params;
     // const { rotation = [0, 0, 0], scale = 100, translation = [0, 0, 0] } = params3D;
-    const { rotation = [0, 0, 0], translation = [0, 0, 0] } = params3D;
+    // const { rotation = [0, 0, 0], translation = [0, 0, 0] } = params3D;
     const scale = 100;
-    scene.rotation.x = rotation[0];
-    scene.rotation.y = rotation[1];
-    scene.rotation.z = rotation[2];
+    // scene.rotation.x = rotation[0];
+    // scene.rotation.y = rotation[1];
+    // scene.rotation.z = rotation[2];
 
     // scene.position.x = translation[0];
     // scene.position.y = translation[1];
@@ -45,9 +44,10 @@ const loadModel = async (data: Row, index: number) => {
     scene.scale.z = scale; // / 100;
 
     const bbox = new Box3().setFromObject(scene);
-    data.params.width = bbox.max.x - bbox.min.x;
-    data.params.height = bbox.max.y - bbox.min.y;
-    data.params.height3d = bbox.max.z - bbox.min.z;
+    const x = bbox.max.x - bbox.min.x;
+    const y = bbox.max.y - bbox.min.y;
+    const z = bbox.max.z - bbox.min.z;
+    data.params.dimensions = { x, y, z };
     // console.log(performance.now(), modelName);
 
     // console.log(width, height, height3d);
@@ -73,11 +73,12 @@ export const init = () => {
       if (index >= 0 && data && index < max) {
         loadModel(data, index);
       } else {
-        const dimensions = collectJSON.reduce((acc, val) => {
-          acc[val.slug] = val;
-          return acc;
-        }, {});
-        download(JSON.stringify(dimensions), "dimensions.json");
+        // const dimensions = collectJSON.reduce((acc, val) => {
+        //   acc[val.id] = val;
+        //   return acc;
+        // }, {});
+        // download(JSON.stringify(dimensions), "dimensions.json");
+        download(JSON.stringify(collectJSON), "dimensions.json");
       }
     },
     state => {
